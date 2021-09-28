@@ -48,7 +48,7 @@ $configuration.sendMessage(message).then(resolve => {
 
 ;(async () => {
   let result = {
-    title: 'YouTube Premium Check',
+    title: 'YouTube Premium Unlock Check',
     content: '检测失败，请重试',
   }
 

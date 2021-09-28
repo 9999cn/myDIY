@@ -71,7 +71,7 @@ $configuration.sendMessage(message).then(resolve => {
     } else if (code === "timeout") {
       result['content'] = "测试超时"
     } else {
-      result['content'] = '该节点完整解锁 Netflix ➟'+flags.get(code.toUpperCase())
+      result['content'] = '该节点完整解锁 Netflix ➟ '+flags.get(code.toUpperCase())
     }
     
     $notify(result["title"], output, result["content"], link)

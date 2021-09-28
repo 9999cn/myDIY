@@ -53,7 +53,7 @@ $configuration.sendMessage(message).then(resolve => {
 
 !(async () => {
   let result = {
-    title: 'Netflix Check',
+    title: 'Netflix Unlock Check',
     subtitle: output,
     content: '检测失败，请重试',
   }

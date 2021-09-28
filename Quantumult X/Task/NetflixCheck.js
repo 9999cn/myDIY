@@ -12,7 +12,7 @@ For Quantumult-X / [task-local]
 const BASE_URL = 'https://www.netflix.com/title/'
 
 const FILM_ID = 81215567
-const link = { "media-url": "https://raw.githubusercontent.com/9999cn/QuanXPng/main/Color/Task/Netflix.png" } 
+const link = { "media-url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png" } 
 const policy_name = "Netflix" //填入你的 netflix 策略组名
 
 const arrow = " ➟ "

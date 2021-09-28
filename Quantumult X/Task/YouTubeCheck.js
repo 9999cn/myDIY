@@ -59,7 +59,7 @@ $configuration.sendMessage(message).then(resolve => {
         result['content'] = '该节点未解锁 YouTube Premium'
         return
       }
-      result['content'] = '该节点解锁 YouTube Premium ➟ '+flags.get(code.toUpperCase())+" 地区"
+      result['content'] = '该节点解锁 YouTube Premium ➟ '+flags.get(code.toUpperCase())+"
       $notify(result["title"], output, result["content"], link)
       $done()
     })

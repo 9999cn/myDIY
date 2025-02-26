@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="Astro-SuperSport-1" tvg-name="Astro SuperSport 1" tvg-logo="https://assets.livednow.com/logo/Astro-SuperSport-1.png" group-title="Sports", Astro SuperSport 1
+http://192.168.10.11:50005/dlhd/Astro-SuperSport-1
+
+#EXTINF:-1 tvg-id="Astro-SuperSport-2" tvg-name="Astro SuperSport 2" tvg-logo="https://assets.livednow.com/logo/Astro-SuperSport-2.png" group-title="Sports", Astro SuperSport 2
+http://192.168.10.11:50005/dlhd/Astro-SuperSport-2
+
+#EXTINF:-1 tvg-id="Astro-SuperSport-3" tvg-name="Astro SuperSport 3" tvg-logo="https://assets.livednow.com/logo/Astro-SuperSport-3.png" group-title="Sports", Astro SuperSport 3
+http://192.168.10.11:50005/dlhd/Astro-SuperSport-3
+
+#EXTINF:-1 tvg-id="Astro-SuperSport-4" tvg-name="Astro SuperSport 4" tvg-logo="https://assets.livednow.com/logo/Astro-SuperSport-4.png" group-title="Sports", Astro SuperSport 4
+http://192.168.10.11:50005/dlhd/Astro-SuperSport-4
+
+#EXTINF:-1 tvg-id="Astro-Cricket" tvg-name="Astro Cricket" tvg-logo="https://assets.livednow.com/logo/Astro-Cricket.png" group-title="Sports", Astro Cricket
+http://192.168.10.11:50005/dlhd/Astro-Cricket
+

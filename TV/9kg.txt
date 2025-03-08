@@ -1,25 +1,14 @@
 17,#genre#
-#EXTM3U
-#EXTINF:-1 group-title="成人",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Playboy HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="成人",PassionXXX
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 group-title="成人",Leo HD
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Reality Kings HD
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 18,#genre#
 樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
@@ -31,20 +20,14 @@ http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
 19,#genre#
 香蕉,http://s.mrw.so/94E7W
-香蕉,http://s.mrw.so/94E7W
-惊艳,http://suo.im/8odLv
 惊艳,http://suo.im/8odLv
 潘多拉,http://suo.im/6TuSG
-潘多拉,http://suo.im/6TuSG
 彩虹电影,http://suo.im/9sOLD
-彩虹电影,http://suo.im/9sOLD
-松视1,http://suo.im/c4FP2
 松视1,http://suo.im/c4FP2
 20,#genre#
 音乐台,https://hao-wu-liao-a.o0o0o0o0o0o.top/o12/main.php?id=2
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8

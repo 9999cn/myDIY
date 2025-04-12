@@ -1,5 +1,25 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="TVB",翡翠台
+https://tv.on99476.apps.0vi.org/stream/channelid/1972911955?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="TVB",明珠台
+https://tv.on99476.apps.0vi.org/stream/channelid/561832533?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="TVB",TVB Plus
+https://tv.on99476.apps.0vi.org/stream/channelid/1143281475?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="TVB",无线新闻台
+https://tv.on99476.apps.0vi.org/stream/channelid/2079023165?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="TVB",凤凰卫视香港台
+https://tv.on99476.apps.0vi.org/stream/channelid/731486306?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="TVB",凤凰卫视中文台
+https://tv.on99476.apps.0vi.org/stream/channelid/1945522532?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="TVB",澳视澳门
+https://tv.on99476.apps.0vi.org/stream/channelid/1103663737?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="NowTV",ViuTV (HKF)
+https://tv.on99476.apps.0vi.org/stream/channelid/1738198820?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="NowTV",ViuTVsix
+https://tv.on99476.apps.0vi.org/stream/channelid/1246595611?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="NowTV",ViuTV
 http://a.ru8.dpdns.org/now/099/master.m3u8
 #EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="NowTV",ViuTV 6
@@ -17,129 +37,113 @@ http://a.ru8.dpdns.org/now/200/master.m3u8
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="NowTV",Now英超台
 http://a.ru8.dpdns.org/now/630/master.m3u8
 
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="hoytv" tvg-name="hoytv" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="HOYTV",HOYTV
+#EXTINF:-1,tvg-id="hoytv" tvg-name="hoytv" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台" group-title="HOYTV",HOYTV
 https://tv.on99476.apps.0vi.org/stream/channelid/1085185638?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="HOYTV",HOY国际财经台
 https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY TV" tvg-chno="0.1" group-title="香港" mux-name="482MHz",HOY TV
-https://tv.on99476.apps.0vi.org/stream/channelid/1085185638?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 國際財經台" tvg-chno="0.2" group-title="香港" mux-name="482MHz",HOY 國際財經台
-https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 資訊台" tvg-chno="0.3" group-title="香港" mux-name="482MHz",HOY 資訊台
+#EXTINF:-1,tvg-id="hoy资讯台" tvg-name="hoy资讯台" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="其他",HOY资讯台
 https://tv.on99476.apps.0vi.org/stream/channelid/1292236747?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logos/images/1/15/RTHK_TV_34_2022.png/revision/latest/scale-to-width-down/1000?cb=20230331041607&path-prefix=vi" tvg-id="中國環球電視網紀錄頻道 (CGTN紀錄頻道)" tvg-chno="0.4" group-title="香港" mux-name="522MHz",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
-https://tv.on99476.apps.0vi.org/stream/channelid/1432873329?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/crop/xy/ai/w/1000/h/667?appid=200698&url=https://pic.baike.soso.com/ugc/baikepic2/832/20220531183039-1245349325_jpeg_1000_661_38470.jpg/0" tvg-id="中央電視台綜合頻道（CCTV-1綜合)" tvg-chno="0.5" group-title="香港" mux-name="522MHz",中央電視台綜合頻道（CCTV-1綜合)
-https://tv.on99476.apps.0vi.org/stream/channelid/1375699404?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK31.png" tvg-id="港台電視 31" tvg-chno="0.6" group-title="香港" mux-name="522MHz",港台電視 31
+
+#EXTINF:-1,tvg-id="港台31" tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/港台31.png" group-title="RTHK",港台31
 https://tv.on99476.apps.0vi.org/stream/channelid/1098716507?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" tvg-id="港台電視 32" tvg-chno="0.7" group-title="香港" mux-name="522MHz",港台電視 32
+#EXTINF:-1,tvg-id="港台32" tvg-name="港台32" tvg-logo="https://epg.v1.mk/logo/港台32.png" group-title="RTHK",港台32
 https://tv.on99476.apps.0vi.org/stream/channelid/477499313?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" tvg-id="CGTN 英語頻道" tvg-chno="0.8" group-title="香港" mux-name="538MHz",CGTN 英語頻道
+#EXTINF:-1,tvg-id="港台33" tvg-name="港台33" tvg-logo="https://epg.v1.mk/logo/港台33.png" group-title="RTHK",港台33 (CCTV-1港澳)
+https://tv.on99476.apps.0vi.org/stream/channelid/1375699404?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="港台34" tvg-name="港台34" tvg-logo="https://epg.v1.mk/logo/港台34.png" group-title="RTHK",港台34 (CGTN记录)
+https://tv.on99476.apps.0vi.org/stream/channelid/1432873329?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="港台31" tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/cgtn英语.png" group-title="RTHK",港台35 (CGTN英语)
 https://tv.on99476.apps.0vi.org/stream/channelid/870514706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" tvg-id="TVB Plus" tvg-chno="0.9" group-title="香港" mux-name="586MHz",TVB Plus
-https://tv.on99476.apps.0vi.org/stream/channelid/1143281475?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://github.com/fanmingming/live/blob/main/tv/guangdong.png?raw=true" tvg-id="b60386345013789ff17b540145cf0aa8" tvg-chno="0.10" group-title="大陆" mux-name="tvtv.m3u - 广东体育高清",广东体育（高清）
-https://tv.on99476.apps.0vi.org/stream/channelid/452638562?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" tvg-id="無綫新聞台" tvg-chno="0.11" group-title="香港" mux-name="586MHz",無綫新聞台
-https://tv.on99476.apps.0vi.org/stream/channelid/2079023165?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%97%A0%E7%BA%BF%E8%B4%A2%E7%BB%8F%E5%8F%B0.png" tvg-id="鳳凰衛視香港台" tvg-chno="0.12" group-title="香港" mux-name="586MHz",鳳凰衛視香港台
-https://tv.on99476.apps.0vi.org/stream/channelid/731486306?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/viutv.png" tvg-id="ViuTV" tvg-chno="0.13" group-title="香港" mux-name="602MHz",ViuTV
-https://tv.on99476.apps.0vi.org/stream/channelid/1738198820?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/viutv.png" tvg-id="ViuTVsix" tvg-chno="0.14" group-title="香港" mux-name="602MHz",ViuTVsix
-https://tv.on99476.apps.0vi.org/stream/channelid/1246595611?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-id="翡翠台" tvg-chno="0.15" group-title="香港" mux-name="602MHz",翡翠台
-https://tv.on99476.apps.0vi.org/stream/channelid/1972911955?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" tvg-id="明珠台" tvg-chno="0.16" group-title="香港" mux-name="586MHz",明珠台
-https://tv.on99476.apps.0vi.org/stream/channelid/561832533?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://github.com/fanmingming/live/blob/main/tv/guangdong.png?raw=true" tvg-id="86dc096bbaa25b43c44428d4b5d776cf" tvg-chno="0.17" group-title="大陆" mux-name="tvtv.m3u - 广东珠江",广东珠江
-https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://github.com/fanmingming/live/blob/main/tv/guangdong.png?raw=true" tvg-id="4K超高清" tvg-chno="0.18" group-title="大陆" mux-name="tvtv.m3u",4K超高清
-https://tv.on99476.apps.0vi.org/stream/channelid/317082088?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" tvg-id="7d28e6ee2026691b1351ed399f9d95e9" tvg-chno="0.21" group-title="大陆" mux-name="tvtv.m3u - CCTV1-HD",CCTV1 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/427382938?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" tvg-id="96ec41185ed9b67770c9060c8d48f988" tvg-chno="0.22" group-title="大陆" mux-name="tvtv.m3u - CCTV2-HD",CCTV2 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/452731001?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" tvg-id="9f1320f6d6934866ddb5fa44ec293749" tvg-chno="0.23" group-title="大陆" mux-name="tvtv.m3u - CCTV3-HD",CCTV3 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/558749842?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" tvg-id="380615a17bcc923716bdb97f773519bb" tvg-chno="0.24" group-title="大陆" mux-name="tvtv.m3u - CCTV4-HD",CCTV4 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1175048843?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" tvg-id="631bc1f96eaee6fc20d7147c04292a53" tvg-chno="0.25" group-title="大陆" mux-name="tvtv.m3u - CCTV5-HD",CCTV5 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1008971687?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" tvg-id="14dbc2f4e55c0149dc714ff432eb50e4" tvg-chno="0.27" group-title="大陆" mux-name="tvtv.m3u - CCTV6-HD",CCTV6 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/235228594?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" tvg-id="e1c3ad3e347674594dba107f14743adc" tvg-chno="0.28" group-title="大陆" mux-name="tvtv.m3u - CCTV7-HD",CCTV7 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1883053523?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" tvg-id="813f1d82c9c31fd55a0a37ed08afb836" tvg-chno="0.29" group-title="大陆" mux-name="tvtv.m3u - CCTV8-HD",CCTV8 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1000334480?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" tvg-id="c725056cb589d8a00b0c5e7237159d24" tvg-chno="0.30" group-title="大陆" mux-name="tvtv.m3u - CCTV9-HD",CCTV9 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/536476229?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" tvg-id="6097cf7e81605b7cd10a5f704d05a5b7" tvg-chno="0.31" group-title="大陆" mux-name="tvtv.m3u - CCTV10-HD",CCTV10 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1380739339?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" tvg-id="ec008c189204e4be8483acf552aa037a" tvg-chno="0.32" group-title="大陆" mux-name="tvtv.m3u - CCTV11-HD",CCTV11 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1169277320?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" tvg-id="c3f62df41c68690a811ba6f9a79a010e" tvg-chno="0.33" group-title="大陆" mux-name="tvtv.m3u - CCTV12-HD",CCTV12 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1604374918?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" tvg-id="c84067ab2ebc26b3a36729ab9b03a388" tvg-chno="0.34" group-title="大陆" mux-name="tvtv.m3u - CCTV13-HD",CCTV13 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/51859372?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" tvg-id="ac401275c1d3400ed4b8b4a4b98c268a" tvg-chno="0.35" group-title="大陆" mux-name="tvtv.m3u - CCTV14-HD",CCTV14 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/726277150?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 tvg-id="478827bc0c5a8235d85d98d158303968" tvg-chno="0.75" group-title="大陆" mux-name="tvtv.m3u - CCTV15-HD",CCTV15 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/145521057?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" tvg-id="9c9f14f8b745d2b1b5432a245c8db8ce" tvg-chno="0.36" group-title="大陆" mux-name="tvtv.m3u - CCTV16-HD",CCTV16 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/436474466?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" tvg-id="138d3393d079c95dab044cb5118d40e7" tvg-chno="0.37" group-title="大陆" mux-name="tvtv.m3u - CCTV17-HD",CCTV17 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/1029272059?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" tvg-id="9ec98abba397b3692c749c5ef051925d" tvg-chno="0.41" group-title="大陆" mux-name="tvtv.m3u - 东方卫视",东方卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1975903579?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" tvg-id="3ed43e8fd8175dd85191e78fba7d40d9" tvg-chno="0.45" group-title="大陆" mux-name="tvtv.m3u - 内蒙古卫视",内蒙古卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1662320978?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" tvg-id="ead6c43799206096e337f9431fbb4b03" tvg-chno="0.47" group-title="大陆" mux-name="tvtv.m3u - 吉林卫视",吉林卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/76924295?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" tvg-id="75a8b8c0b00b58854df56f3b31b725ad" tvg-chno="0.48" group-title="大陆" mux-name="tvtv.m3u - 四川卫视",四川卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/815641508?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" tvg-id="天津卫视" tvg-chno="0.49" group-title="大陆",天津卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/685299838?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" tvg-id="15a7e4ab199845f88964169a3a10bd76" tvg-chno="0.51" group-title="大陆" mux-name="tvtv.m3u - 安徽卫视",安徽卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/588301439?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" tvg-id="d89e4e1f4b2ab19443721d78b799f457" tvg-chno="0.52" group-title="大陆" mux-name="tvtv.m3u - 山东卫视",山东卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1537410187?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://github.com/fanmingming/live/blob/main/tv/guangdong.png?raw=true" tvg-id="11901b102c4e929c2366a49f0026cd6a" tvg-chno="0.54" group-title="大陆" mux-name="tvtv.m3u - 广东卫视",广东卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/65955586?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" tvg-id="d24f92de96d950ae55072d2f0af46eb6" tvg-chno="0.56" group-title="大陆" mux-name="tvtv.m3u - 新疆卫视",新疆卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1895191385?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-id="ed6c092e56db043673397e3c070e5e17" tvg-chno="0.57" group-title="大陆" mux-name="tvtv.m3u - 江苏卫视",江苏卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1912836630?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" tvg-id="61e7bdc019477591f08c20a569118f22" tvg-chno="0.58" group-title="大陆" mux-name="tvtv.m3u - 江西卫视",江西卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/859326488?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" tvg-id="45d73b34f7be5f0dc20f9d565e38c8f9" tvg-chno="0.59" group-title="大陆" mux-name="tvtv.m3u - 河北卫视",河北卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1363516932?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" tvg-id="e04fb16593d03977b1064d964909bac9" tvg-chno="0.60" group-title="大陆" mux-name="tvtv.m3u - 河南卫视",河南卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/2069094100?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" tvg-id="a17ad6f251120a97feaa9244a3e81c99" tvg-chno="0.62" group-title="大陆" mux-name="tvtv.m3u - 浙江卫视",浙江卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/2062398083?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" tvg-id="深圳卫视" tvg-chno="0.64" group-title="大陆",深圳卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1494603987?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" tvg-id="aaa89d35d03b7f05664000200286c1ac" tvg-chno="0.66" group-title="大陆" mux-name="tvtv.m3u - 湖南卫视",湖南卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/801258349?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" tvg-id="1dee33f5e16fb38530671ce173492408" tvg-chno="0.67" group-title="大陆" mux-name="tvtv.m3u - 甘肃卫视",甘肃卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1399037110?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" tvg-id="西藏卫视" tvg-chno="0.68" group-title="大陆",西藏卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/2011561936?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" tvg-id="a581977e6cbf80cee9906bf84513ac66" tvg-chno="0.70" group-title="大陆" mux-name="tvtv.m3u - 重庆卫视",重庆卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/2145668862?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" tvg-id="f6e5b00c6962335266412f5c858aadc3" tvg-chno="0.71" group-title="大陆" mux-name="tvtv.m3u - 陕西卫视",陕西卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/1814976430?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 tvg-id="3f4fc0b2a332a97f0f443a151559ae39" tvg-chno="0.72" group-title="大陆" mux-name="tvtv.m3u - 澳视澳门",澳视澳门
-https://tv.on99476.apps.0vi.org/stream/channelid/1103663737?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" tvg-id="6efb402a12e3ea3ff4d4272c8b62c905" tvg-chno="0.72" group-title="大陆" mux-name="tvtv.m3u - 青海卫视",青海卫视
-https://tv.on99476.apps.0vi.org/stream/channelid/223196556?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 tvg-id="2942573335935b711a13f2010dbc89e9" tvg-chno="0.73" group-title="大陆" mux-name="tvtv.m3u - 凤凰中文",凤凰中文
-https://tv.on99476.apps.0vi.org/stream/channelid/1945522532?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 tvg-id="港台電視 36" tvg-chno="0.74" group-title="香港" mux-name="538MHz",港台電視 36
+#EXTINF:-1,tvg-id="港台31" tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/港台31.png" group-title="RTHK",港台36
 https://tv.on99476.apps.0vi.org/stream/channelid/700226088?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" tvg-id="5e163741db04c815caf82c1cfc129382" tvg-chno="0.74" group-title="大陆" mux-name="tvtv.m3u - 黑龙江卫视",黑龙江卫视
+
+#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV-1
+https://tv.on99476.apps.0vi.org/stream/channelid/427382938?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2
+https://tv.on99476.apps.0vi.org/stream/channelid/452731001?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3
+https://tv.on99476.apps.0vi.org/stream/channelid/558749842?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV-4
+https://tv.on99476.apps.0vi.org/stream/channelid/1175048843?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5
+https://tv.on99476.apps.0vi.org/stream/channelid/1008971687?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6
+https://tv.on99476.apps.0vi.org/stream/channelid/235228594?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://epg.v1.mk/logo/cctv7.png" group-title="央视",CCTV-7
+https://tv.on99476.apps.0vi.org/stream/channelid/1883053523?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8
+https://tv.on99476.apps.0vi.org/stream/channelid/1000334480?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9
+https://tv.on99476.apps.0vi.org/stream/channelid/536476229?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-10
+https://tv.on99476.apps.0vi.org/stream/channelid/1380739339?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-11
+https://tv.on99476.apps.0vi.org/stream/channelid/1169277320?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12
+https://tv.on99476.apps.0vi.org/stream/channelid/1604374918?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-13
+https://tv.on99476.apps.0vi.org/stream/channelid/51859372?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-14
+https://tv.on99476.apps.0vi.org/stream/channelid/726277150?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-15
+https://tv.on99476.apps.0vi.org/stream/channelid/145521057?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-16
+https://tv.on99476.apps.0vi.org/stream/channelid/436474466?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17
+https://tv.on99476.apps.0vi.org/stream/channelid/1029272059?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+
+
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
+https://tv.on99476.apps.0vi.org/stream/channelid/452638562?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
+https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+
+
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="卫视",CHC影迷电影
+https://tv.on99476.apps.0vi.org/stream/channelid/317082088?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/801258349?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/2062398083?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1975903579?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/65955586?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1494603987?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1912836630?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/815641508?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/685299838?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/588301439?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1537410187?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/859326488?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1363516932?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/2069094100?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1399037110?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/2145668862?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1814976430?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/223196556?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/76924295?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1895191385?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/2011561936?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 https://tv.on99476.apps.0vi.org/stream/channelid/850217911?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://tv.on99476.apps.0vi.org/stream/channelid/1662320978?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+

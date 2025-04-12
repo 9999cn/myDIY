@@ -1,9 +1,27 @@
 #EXTM3U
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY TV" tvg-chno="0.1" group-title="香港" mux-name="482MHz",*HOY TV
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="香港",ViuTV
+http://a.ru8.dpdns.org/now/099/master.m3u8
+#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="香港",ViuTV 6
+http://a.ru8.dpdns.org/now/096/master.m3u8
+#EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="香港",Now直播台
+http://a.ru8.dpdns.org/now/331/master.m3u8
+#EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="香港",Now新闻台
+http://a.ru8.dpdns.org/now/332/master.m3u8
+#EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="香港",Now财经台
+http://a.ru8.dpdns.org/now/333/master.m3u8
+#EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="香港",Now华剧台
+http://a.ru8.dpdns.org/now/105/master.m3u8
+#EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="香港",Now熊猫台
+http://a.ru8.dpdns.org/now/200/master.m3u8
+#EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="香港",Now英超台
+http://a.ru8.dpdns.org/now/630/master.m3u8
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY TV" tvg-chno="0.1" group-title="香港" mux-name="482MHz",HOY TV
 https://tv.on99476.apps.0vi.org/stream/channelid/1085185638?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 國際財經台" tvg-chno="0.2" group-title="香港" mux-name="482MHz",*HOY 國際財經台
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 國際財經台" tvg-chno="0.2" group-title="香港" mux-name="482MHz",HOY 國際財經台
 https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 資訊台" tvg-chno="0.3" group-title="香港" mux-name="482MHz",*HOY 資訊台
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 資訊台" tvg-chno="0.3" group-title="香港" mux-name="482MHz",HOY 資訊台
 https://tv.on99476.apps.0vi.org/stream/channelid/1292236747?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logos/images/1/15/RTHK_TV_34_2022.png/revision/latest/scale-to-width-down/1000?cb=20230331041607&path-prefix=vi" tvg-id="中國環球電視網紀錄頻道 (CGTN紀錄頻道)" tvg-chno="0.4" group-title="香港" mux-name="522MHz",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
 https://tv.on99476.apps.0vi.org/stream/channelid/1432873329?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass

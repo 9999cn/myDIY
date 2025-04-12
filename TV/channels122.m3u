@@ -16,32 +16,32 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1945522532?auth=P9V1kNZCoI121G4
 #EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="TVB",澳视澳门
 https://tv.on99476.apps.0vi.org/stream/channelid/1103663737?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 
-#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="Now",ViuTV
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="NOW",ViuTV
 https://tv.on99476.apps.0vi.org/stream/channelid/1738198820?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="Now",ViuTV 6
+#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="NOW",ViuTV 6
 https://tv.on99476.apps.0vi.org/stream/channelid/1246595611?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="Now",ViuTV 99
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="NOW",ViuTV 99
 http://a.ru8.dpdns.org/now/099/master.m3u8
-#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="Now",ViuTVsix
+#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="NOW",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
-#EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="Now",Now直播台
+#EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="NOW",Now直播台
 http://a.ru8.dpdns.org/now/331/master.m3u8
-#EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="Now",Now新闻台
+#EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="NOW",Now新闻台
 http://a.ru8.dpdns.org/now/332/master.m3u8
-#EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="Now",Now财经台
+#EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="NOW",Now财经台
 http://a.ru8.dpdns.org/now/333/master.m3u8
-#EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="Now",Now华剧台
+#EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="NOW",Now华剧台
 http://a.ru8.dpdns.org/now/105/master.m3u8
-#EXTINF:-1,tvg-id="Now熊猫台" tvg-name="Now熊猫台" tvg-logo="https://epg.v1.mk/logo/NOWTV.png" group-title="Now",Now熊猫台
+#EXTINF:-1,tvg-id="Now熊猫台" tvg-name="Now熊猫台" tvg-logo="https://epg.v1.mk/logo/NOWTV.png" group-title="NOW",Now熊猫台
 http://a.ru8.dpdns.org/now/200/master.m3u8
-#EXTINF:-1,tvg-id="nowsportsprime" tvg-name="nowsportsprime" tvg-logo="https://epg.v1.mk/logo/nowsportsprime.png" group-title="Now",Now Sports Prime
+#EXTINF:-1,tvg-id="nowsportsprime" tvg-name="nowsportsprime" tvg-logo="https://epg.v1.mk/logo/nowsportsprime.png" group-title="NOW",Now Sports Prime
 http://a.ru8.dpdns.org/now/630/master.m3u8
 
-#EXTINF:-1,tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="HOY",HOY76财经台
+#EXTINF:-1,tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="HOY",HOY76 财经台
 https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="hoy77" tvg-name="hoy77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HOY",HOY 77
+#EXTINF:-1,tvg-id="hoy77" tvg-name="hoy77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HOY",HOY77
 https://tv.on99476.apps.0vi.org/stream/channelid/1085185638?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="hoy78" tvg-name="hoy78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="HOY",HOY78资讯台
+#EXTINF:-1,tvg-id="hoy78" tvg-name="hoy78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="HOY",HOY78 资讯台
 https://tv.on99476.apps.0vi.org/stream/channelid/1292236747?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 
 #EXTINF:-1,tvg-id="港台31" tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/港台31.png" group-title="RTHK",港台31
@@ -52,7 +52,7 @@ https://tv.on99476.apps.0vi.org/stream/channelid/477499313?auth=P9V1kNZCoI121G4B
 https://tv.on99476.apps.0vi.org/stream/channelid/1375699404?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="港台34" tvg-name="港台34" tvg-logo="https://epg.v1.mk/logo/港台34.png" group-title="RTHK",港台34 (CGTN记录)
 https://tv.on99476.apps.0vi.org/stream/channelid/1432873329?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="港台35" tvg-name="港台35" tvg-logo="https://epg.v1.mk/logo/cgtn英语.png" group-title="RTHK",港台35 (CGTN英语)
+#EXTINF:-1,tvg-id="港台35" tvg-name="港台35" tvg-logo="https://epg.v1.mk/logo/RTHK35.png" group-title="RTHK",港台35 (CGTN英语)
 https://tv.on99476.apps.0vi.org/stream/channelid/870514706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 
 #EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV-1
@@ -90,13 +90,6 @@ https://tv.on99476.apps.0vi.org/stream/channelid/436474466?auth=P9V1kNZCoI121G4B
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17
 https://tv.on99476.apps.0vi.org/stream/channelid/1029272059?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 
-
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
-https://tv.on99476.apps.0vi.org/stream/channelid/452638562?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
-https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-
-
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="卫视",CHC影迷电影
 https://tv.on99476.apps.0vi.org/stream/channelid/317082088?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 
@@ -112,7 +105,7 @@ https://tv.on99476.apps.0vi.org/stream/channelid/65955586?auth=P9V1kNZCoI121G4Bn
 https://tv.on99476.apps.0vi.org/stream/channelid/1494603987?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
 https://tv.on99476.apps.0vi.org/stream/channelid/1912836630?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 https://tv.on99476.apps.0vi.org/stream/channelid/850217911?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 https://tv.on99476.apps.0vi.org/stream/channelid/815641508?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
@@ -144,4 +137,9 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1895191385?auth=P9V1kNZCoI121G4
 https://tv.on99476.apps.0vi.org/stream/channelid/2011561936?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 https://tv.on99476.apps.0vi.org/stream/channelid/1662320978?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
+https://tv.on99476.apps.0vi.org/stream/channelid/452638562?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
+https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 

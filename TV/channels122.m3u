@@ -52,7 +52,7 @@ https://tv.on99476.apps.0vi.org/stream/channelid/477499313?auth=P9V1kNZCoI121G4B
 https://tv.on99476.apps.0vi.org/stream/channelid/1375699404?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="港台34" tvg-name="港台34" tvg-logo="https://epg.v1.mk/logo/港台34.png" group-title="RTHK",港台34 (CGTN记录)
 https://tv.on99476.apps.0vi.org/stream/channelid/1432873329?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="港台35" tvg-name="港台35" tvg-logo="https://epg.v1.mk/logo/RTHK35.png" group-title="RTHK",港台35 (CGTN英语)
+#EXTINF:-1,tvg-id="港台35" tvg-name="港台35" tvg-logo="https://epg.v1.mk/logo/RTHK.png" group-title="RTHK",港台35 (CGTN英语)
 https://tv.on99476.apps.0vi.org/stream/channelid/870514706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 
 #EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV-1

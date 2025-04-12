@@ -145,17 +145,17 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="20240102074128324TEMPIMAGE" tvg-name="20240102074128324TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240102074128324TEMPIMAGE.png" group-title="AKTV",28 AI 智慧賽馬
+#EXTINF:-1,tvg-id="mytvsuper" tvg-name="mytvsuper" tvg-logo="https://epg.v1.mk/logo/mytvsuper.png" group-title="AKTV",28 AI 智慧賽馬
 http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV",Channel 5 HD
 http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV",Channel 8 HD
+#EXTINF:-1,tvg-id="channel8" tvg-name="channelu8" tvg-logo="https://epg.v1.mk/logo/channel8.png" group-title="AKTV",Channel 8 HD
 http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV",Channel U HD
+#EXTINF:-1,tvg-id="channelu" tvg-name="channelu" tvg-logo="https://epg.v1.mk/logo/channelu.png" group-title="AKTV",Channel U HD
 http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="AKTV",myTV SUPER 18台
 http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="AKTV",PopC
+#EXTINF:-1,tvg-id="popc" tvg-name="popc" tvg-logo="https://epg.v1.mk/logo/popc.png" group-title="AKTV",PopC
 http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="AKTV",ROCK Action
 http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
@@ -199,7 +199,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV",Love Nature HD
 http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB无线新闻台png" tvg-name="TVB无线新闻台png" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻台png.png" group-title="AKTV",无线新闻台(北美)
+#EXTINF:-1,tvg-id="TVB无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="AKTV",无线新闻台(北美)
 http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="AKTV",東森新聞
 http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
@@ -229,7 +229,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="AKTV",東方衛視
 http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="AKTV",無線衛星新聞台
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="AKTV",TVBS新聞台
 http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1,tvg-id="CELESTIALMOVIES" tvg-name="CELESTIALMOVIES" tvg-logo="https://epg.v1.mk/logo/CELESTIALMOVIES.png" group-title="AKTV",Celestial Classic Movies
 http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
@@ -239,7 +239,7 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 #EXTINF:-1,tvg-id="FIGHTSPORTS" tvg-name="FIGHTSPORTS" tvg-logo="https://epg.v1.mk/logo/FIGHTSPORTS.png" group-title="AKTV",FIGHT SPORTS
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="AKTV",Mediacorp
+#EXTINF:-1,tvg-id="Mediacorp" tvg-name="Mediacorp" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="AKTV",Mediacorp
 http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 #EXTINF:-1,tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://epg.v1.mk/logo/NBATV.png" group-title="AKTV",NBA TV
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
@@ -287,9 +287,9 @@ http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="ASIANET-NEWS" tvg-name="ASIANET-NEWS" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="AKTV",Asian Action
 http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
-#EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="AKTV",Astro Football
+#EXTINF:-1,tvg-id="Astro" tvg-name="Astro" tvg-logo="https://epg.v1.mk/logo/Astro.png" group-title="AKTV",Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="AKTV",Astro IQIYI
+#EXTINF:-1,tvg-id="Astro" tvg-name="Astro" tvg-logo="https://epg.v1.mk/logo/Astro.png" group-title="AKTV",Astro IQIYI
 http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="AKTV",Astro QJ
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
@@ -309,7 +309,7 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
 #EXTINF:-1,tvg-id="TENNISCHANNEL" tvg-name="TENNISCHANNEL" tvg-logo="https://epg.v1.mk/logo/TENNISCHANNEL.png" group-title="AKTV",Tennis Channel US
 http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-#EXTINF:-1,tvg-id="1905-EN_US" tvg-name="1905-EN_US" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png" group-title="AKTV",US MTV LIVE
+#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.v1.mk/logo/MTV.png" group-title="AKTV",US MTV LIVE
 http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="AKTV",ViuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8

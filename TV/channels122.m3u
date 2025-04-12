@@ -179,13 +179,13 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="AKTV",美亞電影台(HK)
 http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV",翡翠剧集台(北美)
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV",翡翠剧集台(北美)
 http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV",翡翠台
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="AKTV",翡翠台 4K
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV",翡翠台 4K
 http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV",翡翠综合台(北美)
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV",翡翠综合台(北美)
 http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV",鳳凰中文
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
@@ -199,7 +199,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV",Love Nature HD
 http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="AKTV",无线新闻台(北美)
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="AKTV",无线新闻台(北美)
 http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="AKTV",東森新聞
 http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
@@ -283,7 +283,7 @@ http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 #EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="AKTV",緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="ASIANET-NEWS" tvg-name="ASIANET-NEWS" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="AKTV",Asian Action
+#EXTINF:-1,tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="AKTV",TVB功夫台
 http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
 #EXTINF:-1,tvg-id="Astro" tvg-name="Astro" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT.png" group-title="AKTV",Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8

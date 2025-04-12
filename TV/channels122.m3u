@@ -17,6 +17,12 @@ http://a.ru8.dpdns.org/now/200/master.m3u8
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="NowTV",Now英超台
 http://a.ru8.dpdns.org/now/630/master.m3u8
 
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="hoytv" tvg-name="hoytv" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="HOYTV",HOYTV
+https://tv.on99476.apps.0vi.org/stream/channelid/1085185638?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1,tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="HOYTV",HOY国际财经台
+https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY TV" tvg-chno="0.1" group-title="香港" mux-name="482MHz",HOY TV
 https://tv.on99476.apps.0vi.org/stream/channelid/1085185638?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/200px-HOY_TV_Logo.svg.png" tvg-id="*HOY 國際財經台" tvg-chno="0.2" group-title="香港" mux-name="482MHz",HOY 國際財經台
@@ -81,6 +87,8 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1604374918?auth=P9V1kNZCoI121G4
 https://tv.on99476.apps.0vi.org/stream/channelid/51859372?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" tvg-id="ac401275c1d3400ed4b8b4a4b98c268a" tvg-chno="0.35" group-title="大陆" mux-name="tvtv.m3u - CCTV14-HD",CCTV14 HD
 https://tv.on99476.apps.0vi.org/stream/channelid/726277150?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTINF:-1 tvg-id="478827bc0c5a8235d85d98d158303968" tvg-chno="0.75" group-title="大陆" mux-name="tvtv.m3u - CCTV15-HD",CCTV15 HD
+https://tv.on99476.apps.0vi.org/stream/channelid/145521057?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" tvg-id="9c9f14f8b745d2b1b5432a245c8db8ce" tvg-chno="0.36" group-title="大陆" mux-name="tvtv.m3u - CCTV16-HD",CCTV16 HD
 https://tv.on99476.apps.0vi.org/stream/channelid/436474466?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" tvg-id="138d3393d079c95dab044cb5118d40e7" tvg-chno="0.37" group-title="大陆" mux-name="tvtv.m3u - CCTV17-HD",CCTV17 HD
@@ -135,5 +143,3 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1945522532?auth=P9V1kNZCoI121G4
 https://tv.on99476.apps.0vi.org/stream/channelid/700226088?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" tvg-id="5e163741db04c815caf82c1cfc129382" tvg-chno="0.74" group-title="大陆" mux-name="tvtv.m3u - 黑龙江卫视",黑龙江卫视
 https://tv.on99476.apps.0vi.org/stream/channelid/850217911?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1 tvg-id="478827bc0c5a8235d85d98d158303968" tvg-chno="0.75" group-title="大陆" mux-name="tvtv.m3u - CCTV15-HD",CCTV15 HD
-https://tv.on99476.apps.0vi.org/stream/channelid/145521057?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass

@@ -247,7 +247,7 @@ http://aktv_stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Sukan
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB Jade
+#EXTINF:-1 group-title="AKTV",TVBJ
 http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",TVB星河
 http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
@@ -255,7 +255,7 @@ http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",曼聯電視頻道
 http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",朝鮮恩情台
+#EXTINF:-1 group-title="AKTV",朝鮮中央台
 http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",ELTV生活英語台
 http://aktv_stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
@@ -309,7 +309,7 @@ http://aktv_stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Tennis Channel US
 http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",US MTV LIVE
+#EXTINF:-1 group-title="AKTV",MTV LIVE
 http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 
 
@@ -320,8 +320,6 @@ http://free.cnlive.club/channel/7c0fbc9c/index.m3u8?q=1744529626597
 http://free.cnlive.club/channel/7c9edadb/index.m3u8?q=1744529626597
 #EXTINF:-1 group-title="LITV",民視綜藝台
 http://free.cnlive.club/channel/7caec50e/index.m3u8?q=1744529626597
-#EXTINF:-1 group-title="LITV",豬哥亮歌廳秀
-http://free.cnlive.club/channel/534b1b80/index.m3u8?q=1744529626597
 #EXTINF:-1 group-title="LITV",中天新聞台
 http://free.cnlive.club/channel/n3ee59a96/index.m3u8?q=1744529626597
 #EXTINF:-1 group-title="LITV",非凡新聞台
@@ -490,6 +488,8 @@ http://free.cnlive.club/channel/4f989b8d/index.m3u8?q=1744529626597
 http://free.cnlive.club/channel/1cc80f2c/index.m3u8?q=1744529626597
 #EXTINF:-1 group-title="LITV",寰宇財經台
 http://free.cnlive.club/channel/n7b52d555/index.m3u8?q=1744529626597
+#EXTINF:-1 group-title="LITV",豬哥亮歌廳秀
+http://free.cnlive.club/channel/534b1b80/index.m3u8?q=1744529626597
 
 #EXTM3U url-tvg="https://mytvsuperepg.860775.xyz/epg.xml" catchup-time="10800" catchup-type="timeshift"   
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="tongxunlu",翡翠台
@@ -507,7 +507,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "j5emKd5oCvk6ZSwxArZYmA", "kid": "4E+s3ZE1Te7jGMZ0mTt0wQ"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=0b85013df3cde5a76947da1349c84662&ext_start_limit=1744744633&int_start_limit=1744744633&ts=1744744633&c=339313918
-#EXTINF:-1 tvg-id="TVB plus" tvg-name="TVB plus" tvg-logo="https://img.sky4k.top/TVB_Plus_CheerVisionTV.png" group-title="tongxunlu",TVB plus
+#EXTINF:-1 tvg-id="TVB plus" tvg-name="TVB plus" tvg-logo="https://img.sky4k.top/TVB_Plus_CheerVisionTV.png" group-title="tongxunlu",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XZ2OlX0uRdgYmlb+hmWqqg", "kid": "VmA7Zfodc4O27w5zua5p+g"}], "type": "temporary"}
@@ -527,7 +527,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XM6VgzVoueMi8XxhOHswbw", "kid": "j+PbGiSWlpSuNEfyZHPrnw"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=2c9c6e6781f4a25c3517fe8f3792c81c&ext_start_limit=1744744634&int_start_limit=1744744634&ts=1744744634&c=339313918
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="tongxunlu",娛樂新聞台
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="tongxunlu",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "olYiDmwr6qgvTKX7pOwflQ", "kid": "b6Dkd1C14vtq35uaCsQxow"}], "type": "temporary"}
@@ -547,7 +547,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uGhfvs93LmQVRjCCnPMwow", "kid": "zeYuEFbrNhXat6Pv2D9etA"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=545f509e94743b2ad3d290d24828d1a7&ext_start_limit=1744744635&int_start_limit=1744744635&ts=1744744635&c=339313918
-#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="tongxunlu",中央電視台綜合頻道 (港澳版)
+#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="tongxunlu",CCTV-1 (港澳版)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Li6GArbYNczxDuVqmn2Rog", "kid": "5QsY/ufKt2ufKCLireh3Og"}], "type": "temporary"}

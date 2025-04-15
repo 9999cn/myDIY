@@ -641,7 +641,7 @@ http://192.168.10.11:8000/litv?token=litv&id=4gtv-4gtv004
 http://192.168.10.11:8000/litv?token=litv&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://logo.doube.eu.org/非凡新闻.png" group-title="Litv-Go",非凡新闻
 http://192.168.10.11:8000/litv?token=litv&id=4gtv-4gtv010
-#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://www.ccii.com.tw/chweb/images/mptype05.png" group-title="Litv-Go",影迷数位电影台
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/影迷数位电影台.png" group-title="Litv-Go",影迷数位电影台
 http://192.168.10.11:8000/litv?token=litv&id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://logo.doube.eu.org/视纳华仁纪实.png" group-title="Litv-Go",视纳华仁纪实
 http://192.168.10.11:8000/litv?token=litv&id=4gtv-4gtv013

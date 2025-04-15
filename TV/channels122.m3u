@@ -100,7 +100,7 @@ http://192.168.10.11:35455/gaoma/cctv3.m3u8
 http://192.168.10.11:35455/gaoma/cctv4.m3u8
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="FAT",CCTV5-高码
 http://192.168.10.11:35455/gaoma/cctv5.m3u8
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="FAT",CCTV5+-高码
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="FAT",CCTV5+高码
 http://192.168.10.11:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="FAT",CCTV7-高码
 http://192.168.10.11:35455/gaoma/cctv7.m3u8

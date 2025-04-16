@@ -233,10 +233,10 @@ https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5hd" tvg-logo="https://epg.v1.mk/logo/channel5hd.png" group-title="HKSG",Channel 5 HD
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
 #EXTINF:-1,tvg-id="Channel8hd" tvg-name="Channel8hd" tvg-logo="https://epg.v1.mk/logo/channel8hd.png" group-title="HKSG",Channel 8 HD
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1,tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HKSG",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="HKSG",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="HKSG",广东珠江

@@ -289,6 +289,38 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",1
+http://go1.bkpcp.top/tl/null-1
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",2黄金翡翠台
+http://go1.bkpcp.top/tl/null-2
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",3无线剧集台
+http://go1.bkpcp.top/tl/null-3
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",4无线华剧台
+http://go1.bkpcp.top/tl/null-4
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",5
+http://go1.bkpcp.top/tl/null-5
+#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",6
+http://go1.bkpcp.top/tl/null-6
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HKSG",7
+http://go1.bkpcp.top/tl/null-7
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",8
+http://go1.bkpcp.top/tl/null-8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",9黄金华剧台
+http://go1.bkpcp.top/tl/null-9
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",10无线粤片台
+http://go1.bkpcp.top/tl/null-10
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",11
+http://go1.bkpcp.top/tl/null-11
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",12
+http://go1.bkpcp.top/tl/null-12
+#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",13无线亚剧台
+http://go1.bkpcp.top/tl/null-13
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HKSG",14
+http://go1.bkpcp.top/tl/null-14
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HKSG",15
+http://go1.bkpcp.top/tl/null-15
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HKSG",16无线戏曲台
+http://go1.bkpcp.top/tl/null-16
 
 
 

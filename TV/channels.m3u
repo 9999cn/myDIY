@@ -227,22 +227,6 @@ http://php.jdshipin.com:8880/gztv.php?id=fazhi
 http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 #EXTINF:-1,tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.v1.mk/logo/南国都市.png" group-title="广东",南国都市
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.v1.mk/logo/佛山综合.png" group-title="广东",佛山综合
-http://php.jdshipin.com:8880/fstv.php?id=fszh
-#EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.v1.mk/logo/佛山影视.png" group-title="广东",佛山影视
-http://php.jdshipin.com:8880/fstv.php?id=fsys
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东",佛山公共
-http://php.jdshipin.com:8880/fstv.php?id=fsgg
-#EXTINF:-1,tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://epg.v1.mk/logo/佛山南海.png" group-title="广东",佛山南海
-http://php.jdshipin.com:8880/fstv.php?id=fsnh
-#EXTINF:-1,tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://epg.v1.mk/logo/佛山顺德.png" group-title="广东",佛山顺德
-http://php.jdshipin.com:8880/fstv.php?id=fssd
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东",佛山高明
-http://php.jdshipin.com:8880/fstv.php?id=fsgm
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.v1.mk/logo/佛山公共.png" group-title="广东",佛山三水
-http://php.jdshipin.com:8880/fstv.php?id=fsss
-
 
 
 
@@ -254,17 +238,17 @@ http://php.jdshipin.com:8880/fstv.php?id=fsss
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",翡翠台(北美)
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HKSG",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1,tvg-id="TVBJade" tvg-name="TVBJade" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",TVB Jade
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="HKSG",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="HKSG",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HKSG",TVB Plus
-http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="HKSG",无线新闻台
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="HKSG",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="HKSG",娱乐新闻台
+#EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="HKSG",娱乐新闻台
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="HKSG",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn

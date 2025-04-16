@@ -3,9 +3,6 @@
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="TVB",翡翠台
 https://tv.on99476.apps.0vi.org/stream/channelid/1972911955?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="TVB",翡翠台 4K
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-http://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="TVB",明珠台
 https://tv.on99476.apps.0vi.org/stream/channelid/561832533?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="TVB",TVB Plus
@@ -212,12 +209,8 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1662320978?auth=P9V1kNZCoI121G4
 
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
 https://tv.on99476.apps.0vi.org/stream/channelid/452638562?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-https://tv.cdn.com.mp/live/gdty/stream.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
 https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.v1.mk/logo/广州综合.png" group-title="广东",广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -236,6 +229,76 @@ http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 
 
+
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="Channelu" tvg-name="Channelu" tvg-logo="https://epg.v1.mk/logo/channelu" group-title="HKSG",Channel U
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="HKSG",Channel 5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://epg.v1.mk/logo/channel8" group-title="HKSG",Channel 8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="HKSG",八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1,tvg-id="HKSG珠江" tvg-name="HKSG珠江" tvg-logo="https://epg.v1.mk/logo/HKSG珠江.png" group-title="HKSG",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1,tvg-id="HKSG珠江" tvg-name="HKSG珠江" tvg-logo="https://epg.v1.mk/logo/HKSG珠江.png" group-title="HKSG",广东珠江a
+https://tv.cdn.com.mp/live/gdzj/stream.m3u8
+#EXTINF:-1,tvg-id="HKSG体育" tvg-name="HKSG体育" tvg-logo="https://epg.v1.mk/logo/HKSG体育.png" group-title="HKSG",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1,tvg-id="HKSG体育" tvg-name="HKSG体育" tvg-logo="https://epg.v1.mk/logo/HKSG体育.png" group-title="HKSG",广东体育a
+https://tv.cdn.com.mp/live/gdty/stream.m3u8
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HKSG",TVB Plus
+https://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1,tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://epg.v1.mk/logo/凤凰中文台.png" group-title="HKSG",凤凰中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://epg.v1.mk/logo/凤凰中文台.png" group-title="HKSG",凤凰中文台a
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰资讯台.png" group-title="HKSG",凤凰资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1,tvg-id="凤凰HKSG台" tvg-name="凤凰HKSG台" tvg-logo="https://epg.v1.mk/logo/凤凰HKSG台.png" group-title="HKSG",凤凰香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1,tvg-id="凤凰HKSG台" tvg-name="凤凰HKSG台" tvg-logo="https://epg.v1.mk/logo/凤凰HKSG台.png" group-title="HKSG",凤凰香港台a
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1,tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HKSG",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1,tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HKSG",HOY77a
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="HKSG",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="HKSG",翡翠频4k
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="HKSG",翡翠频 4k
+http://cdn.163189.xyz/live/fct4k/stream.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HKSG",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="HKSG",无线剧集台
+http://go1.bkpcp.top/tl/null-3
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="HKSG",无线戏曲台
+http://go1.bkpcp.top/tl/null-15
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="HKSG",无线粤片台
+http://go1.bkpcp.top/tl/null-10
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="HKSG",无线华剧台
+http://go1.bkpcp.top/tl/null-4
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HKSG",黄金亚剧台
+http://go1.bkpcp.top/tl/null-13
+#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="HKSG",黄金翡翠台
+http://go1.bkpcp.top/tl/null-2 
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HKSG",黄金华剧台
+http://go1.bkpcp.top/tl/null-9
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="HKSG",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1,tvg-id="奥视澳门" tvg-name="奥视澳门" tvg-logo="https://epg.v1.mk/logo/奥视澳门.png" group-title="HKSG",澳门澳视
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="HKSG",RTHK-31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="HKSG",RTHK-31a
+https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="HKSG",RTHK-32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="HKSG",RTHK-32a
+https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+#EXTINF:-1,tvg-id="rthk33" tvg-name="rthk33" tvg-logo="https://epg.v1.mk/logo/rthk33.png" group-title="HKSG",RTHK-33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 

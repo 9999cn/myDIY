@@ -210,6 +210,20 @@ https://tv.on99476.apps.0vi.org/stream/channelid/1662320978?auth=P9V1kNZCoI121G4
 https://tv.on99476.apps.0vi.org/stream/channelid/452638562?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
 https://tv.on99476.apps.0vi.org/stream/channelid/1489189677?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.v1.mk/logo/广州综合.png" group-title="广东",广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.v1.mk/logo/广州新闻.png" group-title="广东",广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.v1.mk/logo/广州影视.png" group-title="广东",广州影视
+http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
+#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.v1.mk/logo/广州法治.png" group-title="广东",广州法治
+http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
+#EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.v1.mk/logo/广州竞赛.png" group-title="广东",广州竞赛
+http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
+#EXTINF:-1,tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.v1.mk/logo/南国都市.png" group-title="广东",南国都市
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+
 
 
 #EXTM3U

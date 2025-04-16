@@ -239,10 +239,10 @@ https://cdn6.163189.xyz/live/ch5/stream.m3u8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="HKSG",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/HKSG珠江.png" group-title="HKSG",广东珠江
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="HKSG",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 https://tv.cdn.com.mp/live/gdzj/stream.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/HKSG体育.png" group-title="HKSG",广东体育
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="HKSG",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 https://tv.cdn.com.mp/live/gdty/stream.m3u8
 #EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HKSG",TVB Plus
@@ -252,7 +252,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰资讯台.png" group-title="HKSG",凤凰资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1,tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://epg.v1.mk/logo/凤凰HKSG台.png" group-title="HKSG",凤凰香港台
+#EXTINF:-1,tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://epg.v1.mk/logo/凤凰香港台.png" group-title="HKSG",凤凰香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1,tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HKSG",HOY77

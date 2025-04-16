@@ -231,11 +231,11 @@ http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1,tvg-id="Channelu" tvg-name="Channelu" tvg-logo="https://epg.v1.mk/logo/channeluhd" group-title="HKSG",Channel U
+#EXTINF:-1,tvg-id="Channeluhd" tvg-name="Channeluhd" tvg-logo="https://epg.v1.mk/logo/channeluhd.png" group-title="HKSG",Channel U HD
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5hd.png" group-title="HKSG",Channel 5
+#EXTINF:-1,tvg-id="channel5hd" tvg-name="channel5hd" tvg-logo="https://epg.v1.mk/logo/channel5hd.png" group-title="HKSG",Channel 5 HD
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://epg.v1.mk/logo/channel8hd" group-title="HKSG",Channel 8
+#EXTINF:-1,tvg-id="Channel8hd" tvg-name="Channel8hd" tvg-logo="https://epg.v1.mk/logo/channel8hd.png" group-title="HKSG",Channel 8 HD
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="HKSG",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8

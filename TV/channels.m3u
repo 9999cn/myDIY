@@ -1508,7 +1508,6 @@ http://192.168.10.11:50009/of-litv-ftv17/index.m3u8
 http://192.168.10.11:50009/of-4gtv-4gtv084/index.m3u8
 #EXTINF:-1 group-title="003",國會頻道2
 http://192.168.10.11:50009/of-4gtv-4gtv085/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",中視經典台
 http://192.168.10.11:50009/4gtv-4gtv080/index.m3u8
 #EXTINF:-1 group-title="003",ROCK Entertainment
@@ -1610,7 +1609,6 @@ http://192.168.10.11:50009/4gtv-4gtv004/index.m3u8
 http://192.168.10.11:50009/4gtv-4gtv006/index.m3u8
 #EXTINF:-1 group-title="003",TVBS歡樂台
 http://192.168.10.11:50009/4gtv-4gtv068/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",CMusic
 http://192.168.10.11:50009/4gtv-live031/index.m3u8
 #EXTINF:-1 group-title="003",Trace Urban
@@ -1645,7 +1643,6 @@ http://192.168.10.11:50009/li-4gtv-4gtv083/index.m3u8
 http://192.168.10.11:50009/li-4gtv-4gtv059/index.m3u8
 #EXTINF:-1 group-title="003",八大精彩
 http://192.168.10.11:50009/li-4gtv-4gtv034/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",Global Trekker
 http://192.168.10.11:50009/4gtv-live112/index.m3u8
 #EXTINF:-1 group-title="003",Lifetime
@@ -1720,7 +1717,6 @@ http://192.168.10.11:50009/li-4gtv-4gtv057/index.m3u8
 http://192.168.10.11:50009/of-litv-longturn20/index.m3u8
 #EXTINF:-1 group-title="003",龍華卡通
 http://192.168.10.11:50009/litv-longturn01/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",鏡電視新聞台
 http://192.168.10.11:50009/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 group-title="003",東森新聞
@@ -1813,7 +1809,6 @@ http://192.168.10.11:50009/nnews-zh/index.m3u8
 http://192.168.10.11:50009/nnews-en/index.m3u8
 #EXTINF:-1 group-title="003",倪珍越語新聞
 http://192.168.10.11:50009/nnews-vn/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",TRACE Sport Stars
 http://192.168.10.11:50009/4gtv-4gtv077/index.m3u8
 #EXTINF:-1 group-title="003",智林體育
@@ -1848,7 +1843,6 @@ http://192.168.10.11:50009/li-4gtv-4gtv101/index.m3u8
 http://192.168.10.11:50009/li-4gtv-4gtv014/index.m3u8
 #EXTINF:-1 group-title="003",GINX Esports TV
 http://192.168.10.11:50009/li-4gtv-4gtv053/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",歷史頻道
 http://192.168.10.11:50009/4gtv-live026/index.m3u8
 #EXTINF:-1 group-title="003",CI 罪案偵查頻道
@@ -1861,7 +1855,6 @@ http://192.168.10.11:50009/litv-ftv15/index.m3u8
 http://192.168.10.11:50009/li-4gtv-4gtv013/index.m3u8
 #EXTINF:-1 group-title="003",影迷數位紀實台
 http://192.168.10.11:50009/li-litv-ftv15/index.m3u8
-#EXTINF:-1 group-title="003",
 #EXTINF:-1 group-title="003",公視金獎台
 http://192.168.10.11:50009/ofiii13/index.m3u8
 #EXTINF:-1 group-title="003",哆啦Ａ夢台

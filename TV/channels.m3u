@@ -733,7 +733,7 @@ http://92.112.21.169:20009/live/lhxj/stream.m3u8
 http://92.112.21.169:20002/smt3.2.1.php?id=Celestial
 #EXTINF:-1 tvg-name="天映经典" group-title="92",天映经典
 http://92.112.21.169:20002/smt3.2.1.php?id=Celestial2
-#EXTINF:-1 tvg-name="RTHK33" group-title="92",CCTV1
+#EXTINF:-1 tvg-name="港台33" group-title="92",CCTV1
 http://92.112.21.169:20006/live/cctv1/stream.m3u8
 
 

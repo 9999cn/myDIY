@@ -483,21 +483,6 @@ http://free.cnlive.club/channel/n7b52d555/index.m3u8?q=1744529626597
 http://free.cnlive.club/channel/534b1b80/index.m3u8?q=1744529626597
 
 
-#EXTINF:-1 group-title="DIY",三立台灣
-http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 group-title="DIY",Bloomberg
-http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1 group-title="DIY",CN卡通
-http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1 group-title="DIY",TVBS新聞
-http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1 group-title="DIY",三立新聞
-http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1 group-title="DIY",BBC News
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 group-title="DIY",CNN News
-http://125.227.210.55:8166/VideoInput/play.ts
-
 
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://logo.doube.eu.org/民视台湾台.png" group-title="Litv-Go",民视台湾台
 http://192.168.10.11:8000/litv?token=litv&id=4gtv-4gtv001

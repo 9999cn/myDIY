@@ -36,6 +36,10 @@ http://a.ru8.dpdns.org/now/105/master.m3u8
 http://a.ru8.dpdns.org/now/200/master.m3u8
 #EXTINF:-1,tvg-id="nowsportsprime" tvg-name="nowsportsprime" tvg-logo="https://epg.v1.mk/logo/nowsportsprime.png" group-title="NOW",Now Sports Prime
 http://a.ru8.dpdns.org/now/630/master.m3u8
+#EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" group-title="NOW",爆谷台
+http://qwttv.iptv1688.top:2015/play/forward/1?tvid=NowBaoguMoviesHKHD
+#EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" group-title="NOW",星影台
+http://61.163.58.168:2015/play/forward/1?tvid=NowBaoguSuperstarsHKHD
 
 #EXTINF:-1,tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="HOY",HOY76 财经台
 https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass

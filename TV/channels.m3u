@@ -25,17 +25,17 @@ http://a.ru8.dpdns.org/now/099/master.m3u8
 #EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="NOW",ViuTVsix
 http://a.ru8.dpdns.org/now/096/master.m3u8
 #EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="NOW",Now直播台
-
+http://a.ru8.dpdns.org/now/331/master.m3u8
 #EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="NOW",Now新闻台
-
+http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="NOW",Now财经台
-
+http://a.ru8.dpdns.org/now/333/master.m3u8
 #EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="NOW",Now华剧台
-
+http://a.ru8.dpdns.org/now/105/master.m3u8
 #EXTINF:-1,tvg-id="Now熊猫台" tvg-name="Now熊猫台" tvg-logo="https://epg.v1.mk/logo/NOWTV.png" group-title="NOW",Now熊猫台
-
+http://a.ru8.dpdns.org/now/200/master.m3u8
 #EXTINF:-1,tvg-id="nowsportsprime" tvg-name="nowsportsprime" tvg-logo="https://epg.v1.mk/logo/nowsportsprime.png" group-title="NOW",Now Sports Prime
-
+http://a.ru8.dpdns.org/now/630/master.m3u8
 
 #EXTINF:-1,tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="HOY",HOY76 财经台
 https://tv.on99476.apps.0vi.org/stream/channelid/2034027706?auth=P9V1kNZCoI121G4BncWjq2q.mY0ZIi18qpm1osJLwEQQ&profile=pass

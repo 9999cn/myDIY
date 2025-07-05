@@ -21,7 +21,6 @@ Miami TV,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playli
 7,http://pullsstx.peiyou.eaydu.com:80/live/48b8bea373fa377f2f73a27e78c931fb.flv
 pigo,http://carlivepull.feima666.com:80/live/b15baa20cb53e13691b6ff8cf645d053.flv
 19,#genre#
-私密頻道_686868,#genre#
 HAPPY,https://hls-gateway.vpstv.net/streams/TOrjG8ZdQjt5R8yZ72uNnybY4J6gVcYMH0svh9UgNo1Q0wLStSU__k0tfDYznYZwvOFerFeZHQZq8QaQIPQT.m3u8
 极限,https://hls-gateway.vpstv.net/streams/pV2y6ExggtMZ1GjCN2r48frRXOMbThd6kHRr0zrFYrYpginbxyrsWpaZTxk6ySSGRWrkIHtpsLMJTX7OUOpxMP.m3u8
 彩虹K台,https://hls-gateway.vpstv.net/streams/JqfzP5hMtI9loM1tV9S8xMOXqA8Tjs0p8jP_Ig0CGI2uy2I7o_BuQzU_q700Iw0UOvneE_tlCOzwDDomGZcUAi.m3u8

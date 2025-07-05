@@ -11,28 +11,15 @@ Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 18,#genre#
-Hustler HD,http://103.211.103.30:8880/6mc210018/87716938/2985
-Redlight HD,http://103.211.103.30:8880/6mc210018/87716938/2984
-Prıvate TV HD,http://103.211.103.30:8880/6mc210018/87716938/2983
-Dorcel HD,http://103.211.103.30:8880/6mc210018/87716938/2982
-Dorcel XxX HD,http://103.211.103.30:8880/6mc210018/87716938/2981
-Vivid Red HD,http://103.211.103.30:8880/6mc210018/87716938/2980
-Vixen HD,http://103.211.103.30:8880/6mc210018/87716938/2979
-EroX XxX HD,http://103.211.103.30:8880/6mc210018/87716938/2978
-Penthouse Gold HD,http://103.211.103.30:8880/6mc210018/87716938/2977
-Super ONE HD,http://103.211.103.30:8880/6mc210018/87716938/2974
-Vivid TV Europe,http://103.211.103.30:8880/6mc210018/87716938/2970
-Vivid Touch,http://103.211.103.30:8880/6mc210018/87716938/2969
-DUSK!,http://103.211.103.30:8880/6mc210018/87716938/2968
-XXL,http://103.211.103.30:8880/6mc210018/87716938/2967
-Meiden Van Holland Hard,http://103.211.103.30:8880/6mc210018/87716938/33159
-Erotic,http://103.211.103.30:8880/6mc210018/87716938/33157
-Erotic 2,http://103.211.103.30:8880/6mc210018/87716938/77934
-Erotic 3,http://103.211.103.30:8880/6mc210018/87716938/77935
-Barely Legal TV,http://103.211.103.30:8880/6mc210018/87716938/33134
-Leo TV HD,http://103.211.103.30:8880/6mc210018/87716938/33133
-Playboy Europe,http://103.211.103.30:8880/6mc210018/87716938/60687
-Playboy,http://103.211.103.30:8880/6mc210018/87716938/60679
+0.http://carlivepull.feima666.com:80/live/b15baa20cb53e13691b6ff8cf645d053.flv
+1,http://pullsstx.peiyou.eaydu.com:80/live/d1263ea91122e3be209eb1aa43347be6.flv
+2,http://pullsstx.peiyou.eaydu.com:80/live/6b6d3db12d2469f9b70a5e2681b725d7.flv
+3,http://pullsstx.peiyou.eaydu.com:80/live/4d209d675405de32ec8a9eec8340f552.flv
+4,http://pullsstx.peiyou.eaydu.com:80/live/1283bc445bcfe7b93955a3c690483833.flv
+5,http://pullsstx.peiyou.eaydu.com:80/live/6c5c5305eda9e12e47cce71bc890d6ac.flv
+6,http://pullsstx.peiyou.eaydu.com:80/live/48b8bea373fa377f2f73a27e78c931fb.flv
+7,http://pullsstx.peiyou.eaydu.com:80/live/48b8bea373fa377f2f73a27e78c931fb.flv
+pigo,http://carlivepull.feima666.com:80/live/b15baa20cb53e13691b6ff8cf645d053.flv
 19,#genre#
 极限,http://m6z.cn/5GCB1h
 松视1,http://u3v.cn/5VEYzx

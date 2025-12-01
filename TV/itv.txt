@@ -3,6 +3,8 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+NOW爆谷星影台,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+NOW爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -75,3 +77,4 @@ CCTV13,https://cdn3.163189.xyz/163189/cctv13
 深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
+

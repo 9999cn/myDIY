@@ -5,6 +5,15 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 NOW星影台,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 NOW爆谷台,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+NOW新闻台,https://cdn.163189.xyz/163189/now
+NOW英超1台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
+NOW英超1台2,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+NOW英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
+NOW英超3台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
+NOW星影台1,http://bxtv.3a.ink/api.php?id=xingying
+NOW爆谷台1,http://bxtv.3a.ink/api.php?id=baogu
+NOW星影台双音轨,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+NOW爆谷台双音轨,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -77,5 +86,6 @@ CCTV13,https://cdn3.163189.xyz/163189/cctv13
 深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
+
 
 

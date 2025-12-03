@@ -12,8 +12,6 @@ NOW英超2台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
 NOW英超3台ㅤ,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
 NOW星影台1,http://bxtv.3a.ink/api.php?id=xingying
 NOW爆谷台1,http://bxtv.3a.ink/api.php?id=baogu
-NOW星影台双音轨,https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
-NOW爆谷台双音轨,https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -86,6 +84,7 @@ CCTV13,https://cdn3.163189.xyz/163189/cctv13
 深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
+
 
 
 

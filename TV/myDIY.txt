@@ -1,4 +1,4 @@
-#Juli
+#Juli#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -85,9 +85,7 @@ CCTV13,https://cdn3.163189.xyz/163189/cctv13
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
 
-
-#FWC
-618,https://iptv.852851.xyz/ch/6ba27bcb83b37f238fb5df663b035f25/master.m3u8
+#FWC#
 至臻视界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
 咪视界4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
 616,http://77.90.60.172:55555/8

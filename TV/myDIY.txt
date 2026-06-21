@@ -101,3 +101,38 @@ TSN 4K,http://77.90.60.172:55555/1
 617备用,http://77.90.60.172:55555/9
 618备用,http://77.90.60.172:55555/10
 619备用,http://77.90.60.172:55555/12
+
+#bei#,#genre#
+愛爾達體育1台
+https://iptv.852851.xyz/ch/4b3b23ef626cd595d988a47026d4a936/master.m3u8
+
+愛爾達體育2台
+https://iptv.852851.xyz/ch/584dd7867274a478fe50ead92572ad1f/master.m3u8
+
+广东体育
+https://iptv.852851.xyz/ch/b79372fb09026aa9251ef7a0a0bda6d4/master.m3u8
+
+FUSSBALL.TV 1 UHD  4K杜比
+https://iptv.852851.xyz/ch/cc3d6c463746074e33201f08a9b5f372/master.m3u8
+
+FUSSBALL.TV 1 UHD(备)
+https://iptv.852851.xyz/ch/36b33b1333aedad9024ef5ceadff7039/master.m3u8
+
+TSN 4K CA
+https://iptv.852851.xyz/ch/e16d02942f82ac373f987e4bcd3ad7e1/master.m3u8
+
+618
+https://iptv.852851.xyz/ch/ff749ce1f25ebda92a2724941c8b8570/master.m3u8
+
+619
+https://iptv.852851.xyz/ch/4e831e5e8d2e5b965a1ce0ae305d344f/master.m3u8
+
+FOX - HDR10 4K
+https://iptv.852851.xyz/ch/09885db3d1571c01bd0db6572294bfa1/master.m3u8
+FOX - HDR10 4K(备)
+https://iptv.852851.xyz/ch/f71b76b95641b89f4d45ed7b5485096a/master.m3u8
+BC Stream 41 UHD
+https://iptv.852851.xyz/ch/16f32acf97b0ccfeb079a414a70e1a2c/master.m3u8
+
+FOX one
+https://iptv.852851.xyz/ch/649226f7f0164e57b31b92f06722e6b0/master.m3u8

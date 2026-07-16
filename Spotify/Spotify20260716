@@ -1,0 +1,17 @@
+#!name=Spotify (自托管版)
+#!desc=2026 自托管私有兼容版 (移除 304 强制下发 200 解密数据，完美防强退)
+
+[Rewrite]
+# 核心修正：双重拦截，删除本地缓存验证，强制服务器返回最新数据走你的 JS 脚本
+^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/user-customization-service\/v1\/customize$ header-del if-none-match
+^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/user-customization-service\/v1\/customize$ header-del if-modified-since
+
+[Mitm]
+hostname = spclient.wg.spotify.com, *spclient.spotify.com
+
+[Script]
+# 专辑和艺术家解析 (已指向你个人的 GitHub 脚本)
+http-request ^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/ script-path=https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/Spotify/spotify-json.js, timeout=10, tag=spotifyJson
+
+# 核心初始化鉴权 (已指向你个人的 GitHub 脚本)
+http-response ^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ script-path=https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/Spotify/spotify-proto.js, requires-body=true, binary-body-mode=true, timeout=10, tag=spotifyProto

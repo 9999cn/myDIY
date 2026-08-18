@@ -24,6 +24,7 @@ TVBj1,https://cdn.qd.je/163189/j1
 无线新闻台,https://cdn.qd.je/163189/wxxw
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东体育,https://cdn.qd.je/163189/gdty
+广东公共,http://gzgxzm.dpdns.org:10086/udp/239.21.0.86:3684
 八度空间,https://cdn.qd.je/163189/8tv
 CH5,https://cdn.qd.je/163189/ch5
 CH8,https://cdn.qd.je/163189/ch8

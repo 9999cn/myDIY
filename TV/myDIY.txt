@@ -30,6 +30,11 @@ TVBj1,https://cdn.qd.je/163189/j1
 广东民生标清,http://198.204.228.26/live/gdgg.m3u8?ysp
 广东新闻标清,http://198.204.228.26/live/gdxw.m3u8?ysp
 广东影视标清,http://198.204.228.26/live/gdys.m3u8?ysp
+广东卫视高清,http://198.204.228.26/live/gdwshd.m3u8?ysp
+广东移动标清,http://198.204.228.26/live/gdyd.m3u8
+广东少儿标清,http://198.204.228.26/live/gdtvs5.m3u8?ysp
+大湾区卫视标清,http://198.204.228.26/live/nfws.m3u8
+广东4K超高清,http://198.204.228.26/live/gdtvs3.m3u8?ysp
 八度空间,https://cdn.qd.je/163189/8tv
 CH5,https://cdn.qd.je/163189/ch5
 CH8,https://cdn.qd.je/163189/ch8

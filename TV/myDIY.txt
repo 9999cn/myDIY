@@ -24,11 +24,12 @@ TVBj1,https://cdn.qd.je/163189/j1
 无线新闻台,https://cdn.qd.je/163189/wxxw
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东体育,https://cdn.qd.je/163189/gdty
+广东民生,http://gzgxzm.dpdns.org:10086/udp/239.21.0.86:3684
 广东珠江标清,http://198.204.228.26/live/gdzj.m3u8?ysp
 广东体育标清,http://198.204.228.26/live/gdty.m3u8?ysp
-广东公共标清,http://198.204.228.26/live/gdgg.m3u8?ysp
+广东民生标清,http://198.204.228.26/live/gdgg.m3u8?ysp
 广东新闻标清,http://198.204.228.26/live/gdxw.m3u8?ysp
-广东公共,http://gzgxzm.dpdns.org:10086/udp/239.21.0.86:3684
+广东影视标清,http://198.204.228.26/live/gdys.m3u8?ysp
 八度空间,https://cdn.qd.je/163189/8tv
 CH5,https://cdn.qd.je/163189/ch5
 CH8,https://cdn.qd.je/163189/ch8

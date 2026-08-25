@@ -143,32 +143,46 @@ IPTV,#genre#
 精选频道,http://192.168.10.1:8888/udp/239.10.0.242:1025
 
 Juli,#genre#
+翡翠台,https://cdn.qd.je/163189/fct2
+翡翠台(VTT),https://cdn.qd.je/163189/fctvtt
+翡翠台4K,https://cdn.qd.je/163189/fct4k
+翡翠台(广电),https://cdn.qd.je/163189/fct
+TVB1,https://cdn.qd.je/163189/tvb1
+TVBj1,https://cdn.qd.je/163189/j1
+翡翠剧集台,https://cdn.qd.je/163189/tvbd
+无线新闻台,https://cdn.qd.je/163189/wxxw
+无线新闻台,https://cdn.qd.je/163189/wxxwt
+华丽翡翠台,https://cdn.qd.je/163189/jade
+明珠台,https://cdn.qd.je/163189/mzt
+明珠台(VTT),https://cdn.qd.je/163189/mztvtt
+TVB Plus,https://cdn.qd.je/163189/tvbp2
+TVB Plus,https://cdn.qd.je/163189/tvbp
+TVB Plus(VTT),https://cdn.qd.je/163189/tvbpvtt
 HOY TV,https://cdn.qd.je/163189/hoy
 HOY TV,https://cdn.qd.je/163189/hoy2
 HOY资讯台,https://cdn.qd.je/163189/hoy78
 HOY国际财经台,https://cdn.qd.je/163189/hoy76
 ViuTV,https://cdn.qd.je/163189/viu
-ViuTVsix,https://cdn.qd.je/163189/viu6
+ViuTV6,https://cdn.qd.je/163189/viu6
 NOW新闻台,https://cdn.qd.je/163189/now
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰香港,https://cdn.qd.je/163189/fhhk
 RTHK31,https://cdn.qd.je/163189/rthk31
 RTHK32,https://cdn.qd.je/163189/rthk32
+TVB Drama,https://cdn.qd.je/163189/tvbd
+TVB 功夫台,https://cdn.qd.je/163189/yzwx
+TVB 星河台,https://cdn.qd.je/163189/tvbxh
+TVB 星河台,https://cdn.qd.je/163189/xinghe
+TVB 星河台,https://cdn.qd.je/163189/tvbxh2
 澳视澳门,https://cdn.qd.je/163189/asam
 澳视卫星,https://cdn.qd.je/163189/as
 澳门体育,https://cdn.qd.je/163189/amty
 澳门综艺,https://cdn.qd.je/163189/amzy
 澳门莲花,https://cdn.qd.je/163189/amlh
 重温经典,https://cdn.qd.je/163189/cwjd
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰香港,https://cdn.qd.je/163189/fhhk
-TVB1,https://cdn.qd.je/163189/tvb1
-TVBj1,https://cdn.qd.je/163189/j1
-翡翠剧集台,https://cdn.qd.je/163189/tvbd
-翡翠台,https://cdn.qd.je/163189/fct
-无线新闻台,https://cdn.qd.je/163189/wxxw
 广东珠江,https://cdn.qd.je/163189/gdzj
 广东体育,https://cdn.qd.je/163189/gdty
-广东4K超高清,http://198.204.228.26/live/gdtvs3.m3u8?ysp
 八度空间,https://cdn.qd.je/163189/8tv
 CH5,https://cdn.qd.je/163189/ch5
 CH8,https://cdn.qd.je/163189/ch8
@@ -180,14 +194,30 @@ CHU,https://cdn.qd.je/163189/chu
 龙华戏剧,https://cdn.qd.je/163189/lhxj
 龙华洋片,https://cdn.qd.je/163189/lhyp
 龙华卡通,https://cdn.qd.je/163189/lhkt
-金光布袋戏,https://cdn.qd.je/163189/jgbdx
-亚洲武侠,https://cdn.qd.je/163189/yzwx
-TVB星河,https://cdn.qd.je/163189/xinghe
 天映频道(新加坡),https://cdn.qd.je/163189/typd
-天映经典,https://cdn.qd.je/163189/ccm
-海峡卫视,https://cdn.qd.je/163189/hxws
-海峡卫视,https://cdn.qd.je/163189/hxws2
-华丽翡翠台(硬字幕),https://cdn.qd.je/163189/jade
+天映频道(新加坡),https://cdn.qd.je/163189/ccm
+天映频道(马来西亚),https://cdn.qd.je/163189/typd2
+天映频道(马来西亚),https://cdn.qd.je/163189/ccm2
+采昌影劇台,https://cdn.qd.je/163189/ccyj
+靖天映畫,https://cdn.qd.je/163189/jtyh
+靖天戲劇台,https://cdn.qd.je/163189/jtxj
+靖天電影台,https://cdn.qd.je/163189/jtdy
+靖洋戲劇台,https://cdn.qd.je/163189/jyxj
+影迷數位電影台,https://cdn.qd.je/163189/ymswdyt
+amc電影台,https://cdn.qd.je/163189/amc
+CinemaWorld,https://cdn.qd.je/163189/cinemaworld
+MCE,https://cdn.qd.je/163189/mce
+經典電影台,https://cdn.qd.je/163189/jddyt
+CMusic,https://cdn.qd.je/163189/cmusic
+夢工廠動畫,https://cdn.qd.je/163189/dreamworks
+精選動漫台,https://cdn.qd.je/163189/jxdmt
+緯來電影台,https://cdn.qd.je/163189/wldy
+緯來戲劇台,https://cdn.qd.je/163189/wlxj
+緯來體育台,https://cdn.qd.je/163189/wlty
+龍祥時代,https://cdn.qd.je/163189/lxsd
+東森電影台,https://cdn.qd.je/163189/dsdy
+東森戲劇台,https://cdn.qd.je/163189/dsxj
+東森洋片台,https://cdn.qd.je/163189/dsyp
 CCTV5,https://cdn.qd.je/163189/cctv5
 CCTV5,https://cdn.qd.je/163189/cctv5-2
 CCTV5+,https://cdn.qd.je/163189/cctv5p
@@ -198,24 +228,9 @@ CCTV16,https://cdn.qd.je/163189/cctv16
 CCTV16,https://cdn.qd.je/163189/cctv16-2
 五星体育,https://cdn.qd.je/163189/wxty
 
-FWC,#genre#
-至臻视界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
-咪视界4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
-616,http://77.90.60.172:55555/8
-617,http://77.90.60.172:55555/6
-618,http://77.90.60.172:55555/4
-619,http://77.90.60.172:55555/3
-TSN 4K,http://77.90.60.172:55555/1
-广东体育,http://77.90.60.172:55555/2
-福克斯4K,http://77.90.60.172:55555/5
-福克斯体育1,http://77.90.60.172:55555/7
-法语M6,http://77.90.60.172:55555/0
-616备用,http://77.90.60.172:55555/11
-617备用,http://77.90.60.172:55555/9
-618备用,http://77.90.60.172:55555/10
-619备用,http://77.90.60.172:55555/12
-
 咪咕,#genre#
+至臻视界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+咪视界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
 咪视界4K,http://192.168.10.1:8888/udp/239.10.0.68:1025
 咪咕-高清赛事1,http://192.168.10.1:8888/udp/239.10.0.87:1025
 咪咕-高清赛事2,http://192.168.10.1:8888/udp/239.10.0.88:1025

@@ -1,3 +1,95 @@
+Juli,#genre#
+翡翠台,https://cdn.qd.je/163189/fct2
+翡翠台(VTT),https://cdn.qd.je/163189/fctvtt
+翡翠台4K,https://cdn.qd.je/163189/fct4k
+翡翠台(广电),https://cdn.qd.je/163189/fct
+明珠台,https://cdn.qd.je/163189/mzt
+明珠台(VTT),https://cdn.qd.je/163189/mztvtt
+TVB Plus,https://cdn.qd.je/163189/tvbp2
+TVB Plus,https://cdn.qd.je/163189/tvbp
+TVB Plus(VTT),https://cdn.qd.je/163189/tvbpvtt
+无线新闻台,https://cdn.qd.je/163189/wxxw
+无线新闻台,https://cdn.qd.je/163189/wxxwt
+娱乐新闻台,https://cdn.qd.je/163189/ylxw
+千禧经典台,https://cdn.qd.je/163189/tvbc
+TVB1(USA),https://cdn.qd.je/163189/tvb1
+TVBJ1(USA),https://cdn.qd.je/163189/j1
+TVB Drama,https://cdn.qd.je/163189/tvbd
+TVB 功夫台,https://cdn.qd.je/163189/yzwx
+TVB 星河台,https://cdn.qd.je/163189/tvbxh
+TVB 星河台,https://cdn.qd.je/163189/xinghe
+TVB 星河台,https://cdn.qd.je/163189/tvbxh2
+翡翠台(华丽马来),https://cdn.qd.je/163189/hlt
+翡翠台(马来西亚),https://cdn.qd.je/163189/jade
+翡翠台(大马),https://cdn.qd.je/163189/hlfct
+翡翠台(新加坡),https://cdn.qd.je/163189/jade2
+HOY TV,https://cdn.qd.je/163189/hoy
+HOY TV,https://cdn.qd.je/163189/hoy2
+HOY资讯台,https://cdn.qd.je/163189/hoy78
+HOY国际财经台,https://cdn.qd.je/163189/hoy76
+ViuTV,https://cdn.qd.je/163189/viu
+ViuTV6,https://cdn.qd.je/163189/viu6
+NOW新闻台,https://cdn.qd.je/163189/now
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰香港,https://cdn.qd.je/163189/fhhk
+RTHK31,https://cdn.qd.je/163189/rthk31
+RTHK32,https://cdn.qd.je/163189/rthk32
+RTHK33,https://cdn.qd.je/163189/rthk33
+澳视澳门,https://cdn.qd.je/163189/asam
+澳视卫星,https://cdn.qd.je/163189/as
+澳门体育,https://cdn.qd.je/163189/amty
+澳门综艺,https://cdn.qd.je/163189/amzy
+澳门莲花,https://cdn.qd.je/163189/amlh
+重温经典,https://cdn.qd.je/163189/cwjd
+广东珠江,https://cdn.qd.je/163189/gdzj
+广东体育,https://cdn.qd.je/163189/gdty
+八度空间,https://cdn.qd.je/163189/8tv
+Astro AOD,https://cdn.qd.je/163189/aod
+Astro 欢喜台,https://cdn.qd.je/163189/hxt
+Astro iQIYI,https://cdn.qd.je/163189/iqiyi
+八度空间,https://cdn.qd.je/163189/8tv
+CH5,https://cdn.qd.je/163189/ch5
+CH8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+龙华电影,https://cdn.qd.je/163189/lhdy
+龙华经典,https://cdn.qd.je/163189/lhjd
+龙华偶像,https://cdn.qd.je/163189/lhox
+龙华日韩,https://cdn.qd.je/163189/lhrh
+龙华戏剧,https://cdn.qd.je/163189/lhxj
+龙华洋片,https://cdn.qd.je/163189/lhyp
+龙华卡通,https://cdn.qd.je/163189/lhkt
+天映频道(新加坡),https://cdn.qd.je/163189/typd
+天映频道(新加坡),https://cdn.qd.je/163189/ccm
+天映频道(马来西亚),https://cdn.qd.je/163189/typd2
+天映频道(马来西亚),https://cdn.qd.je/163189/ccm2
+采昌影剧台,https://cdn.qd.je/163189/ccyj
+靖天映画台,https://cdn.qd.je/163189/jtyh
+靖天戏剧台,https://cdn.qd.je/163189/jtxj
+靖天电影台,https://cdn.qd.je/163189/jtdy
+靖洋戏剧台,https://cdn.qd.je/163189/jyxj
+影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
+amc电影台,https://cdn.qd.je/163189/amc
+CinemaWorld,https://cdn.qd.je/163189/cinemaworld
+MCE电影台,https://cdn.qd.je/163189/mce
+经典电影台,https://cdn.qd.je/163189/jddyt
+CMusic,https://cdn.qd.je/163189/cmusic
+梦工厂动画,https://cdn.qd.je/163189/dreamworks
+精选动漫台,https://cdn.qd.je/163189/jxdmt
+纬来电影台,https://cdn.qd.je/163189/wldy
+纬来戏剧台,https://cdn.qd.je/163189/wlxj
+纬来体育台,https://cdn.qd.je/163189/wlty
+龙祥时代,https://cdn.qd.je/163189/lxsd
+东森电影台,https://cdn.qd.je/163189/dsdy
+东森戏剧台,https://cdn.qd.je/163189/dsxj
+东森洋片台,https://cdn.qd.je/163189/dsyp
+广州综合,https://cdn.qd.je/163189/gzzh
+广州新闻,https://cdn.qd.je/163189/gzxw
+南国都市,https://cdn.qd.je/163189/ngds
+海峡卫视,https://cdn.qd.je/163189/hxws
+海峡卫视,https://cdn.qd.je/163189/hxws2
+五星体育,https://cdn.qd.je/163189/wxty
+
 广东频道,#genre#
 广东卫视超清,http://192.168.10.1:8888/udp/239.10.0.45:1025
 广东卫视高清,http://192.168.10.1:8888/udp/239.10.0.111:1025
@@ -135,110 +227,6 @@ CCTV卫生健康,http://192.168.10.1:8888/udp/239.11.0.185:1025
 海南卫视高清,http://192.168.10.1:8888/udp/239.11.0.172:1025
 三沙卫视高清,http://192.168.10.1:8888/udp/239.11.0.177:1025
 
-IPTV,#genre#
-
-华数爱谍战,http://192.168.10.1:8888/udp/239.10.0.8:1025
-华数爱小品,http://192.168.10.1:8888/udp/239.10.0.9:1025
-华数爱野外,http://192.168.10.1:8888/udp/239.10.0.10:1025
-华数爱法治,http://192.168.10.1:8888/udp/239.10.0.11:1025
-华数爱电影,http://192.168.10.1:8888/udp/239.10.0.12:1025
-华数爱经典,http://192.168.10.1:8888/udp/239.10.0.13:1025
-华数爱大剧,http://192.168.10.1:8888/udp/239.10.0.14:1025
-华数爱剧场,http://192.168.10.1:8888/udp/239.10.0.15:1025
-华数爱综艺,http://192.168.10.1:8888/udp/239.10.0.16:1025
-华数爱体育,http://192.168.10.1:8888/udp/239.10.0.17:1025
-华数爱动画,http://192.168.10.1:8888/udp/239.10.0.18:1025
-华数爱魅力,http://192.168.10.1:8888/udp/239.10.0.19:1025
-华数爱收视,http://192.168.10.1:8888/udp/239.10.0.20:1025
-
-Juli,#genre#
-翡翠台,https://cdn.qd.je/163189/fct2
-翡翠台(VTT),https://cdn.qd.je/163189/fctvtt
-翡翠台4K,https://cdn.qd.je/163189/fct4k
-翡翠台(广电),https://cdn.qd.je/163189/fct
-明珠台,https://cdn.qd.je/163189/mzt
-明珠台(VTT),https://cdn.qd.je/163189/mztvtt
-TVB Plus,https://cdn.qd.je/163189/tvbp2
-TVB Plus,https://cdn.qd.je/163189/tvbp
-TVB Plus(VTT),https://cdn.qd.je/163189/tvbpvtt
-无线新闻台,https://cdn.qd.je/163189/wxxw
-无线新闻台,https://cdn.qd.je/163189/wxxwt
-娱乐新闻台,https://cdn.qd.je/163189/ylxw
-千禧经典台,https://cdn.qd.je/163189/tvbc
-TVB1,https://cdn.qd.je/163189/tvb1
-TVBj1,https://cdn.qd.je/163189/j1
-翡翠剧集台,https://cdn.qd.je/163189/tvbd
-华丽翡翠台,https://cdn.qd.je/163189/jade
-HOY TV,https://cdn.qd.je/163189/hoy
-HOY TV,https://cdn.qd.je/163189/hoy2
-HOY资讯台,https://cdn.qd.je/163189/hoy78
-HOY国际财经台,https://cdn.qd.je/163189/hoy76
-ViuTV,https://cdn.qd.je/163189/viu
-ViuTV6,https://cdn.qd.je/163189/viu6
-NOW新闻台,https://cdn.qd.je/163189/now
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰香港,https://cdn.qd.je/163189/fhhk
-RTHK31,https://cdn.qd.je/163189/rthk31
-RTHK32,https://cdn.qd.je/163189/rthk32
-TVB Drama,https://cdn.qd.je/163189/tvbd
-TVB 功夫台,https://cdn.qd.je/163189/yzwx
-TVB 星河台,https://cdn.qd.je/163189/tvbxh
-TVB 星河台,https://cdn.qd.je/163189/xinghe
-TVB 星河台,https://cdn.qd.je/163189/tvbxh2
-澳视澳门,https://cdn.qd.je/163189/asam
-澳视卫星,https://cdn.qd.je/163189/as
-澳门体育,https://cdn.qd.je/163189/amty
-澳门综艺,https://cdn.qd.je/163189/amzy
-澳门莲花,https://cdn.qd.je/163189/amlh
-重温经典,https://cdn.qd.je/163189/cwjd
-广东珠江,https://cdn.qd.je/163189/gdzj
-广东体育,https://cdn.qd.je/163189/gdty
-八度空间,https://cdn.qd.je/163189/8tv
-CH5,https://cdn.qd.je/163189/ch5
-CH8,https://cdn.qd.je/163189/ch8
-CHU,https://cdn.qd.je/163189/chu
-龙华电影,https://cdn.qd.je/163189/lhdy
-龙华经典,https://cdn.qd.je/163189/lhjd
-龙华偶像,https://cdn.qd.je/163189/lhox
-龙华日韩,https://cdn.qd.je/163189/lhrh
-龙华戏剧,https://cdn.qd.je/163189/lhxj
-龙华洋片,https://cdn.qd.je/163189/lhyp
-龙华卡通,https://cdn.qd.je/163189/lhkt
-天映频道(新加坡),https://cdn.qd.je/163189/typd
-天映频道(新加坡),https://cdn.qd.je/163189/ccm
-天映频道(马来西亚),https://cdn.qd.je/163189/typd2
-天映频道(马来西亚),https://cdn.qd.je/163189/ccm2
-采昌影剧台,https://cdn.qd.je/163189/ccyj
-靖天映画,https://cdn.qd.je/163189/jtyh
-靖天戏剧台,https://cdn.qd.je/163189/jtxj
-靖天电影台,https://cdn.qd.je/163189/jtdy
-靖洋戏剧台,https://cdn.qd.je/163189/jyxj
-影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
-amc電影台,https://cdn.qd.je/163189/amc
-CinemaWorld,https://cdn.qd.je/163189/cinemaworld
-MCE,https://cdn.qd.je/163189/mce
-经典电影台,https://cdn.qd.je/163189/jddyt
-CMusic,https://cdn.qd.je/163189/cmusic
-梦工厂动画,https://cdn.qd.je/163189/dreamworks
-精选动漫台,https://cdn.qd.je/163189/jxdmt
-纬来电影台,https://cdn.qd.je/163189/wldy
-纬来戏剧台,https://cdn.qd.je/163189/wlxj
-纬来体育台,https://cdn.qd.je/163189/wlty
-龙祥时代,https://cdn.qd.je/163189/lxsd
-东森电影台,https://cdn.qd.je/163189/dsdy
-东森戏剧台,https://cdn.qd.je/163189/dsxj
-东森洋片台,https://cdn.qd.je/163189/dsyp
-CCTV5,https://cdn.qd.je/163189/cctv5
-CCTV5,https://cdn.qd.je/163189/cctv5-2
-CCTV5+,https://cdn.qd.je/163189/cctv5p
-CCTV5+,https://cdn.qd.je/163189/cctv5p-2
-CCTV13,https://cdn.qd.je/163189/cctv13
-CCTV13,https://cdn.qd.je/163189/cctv13-2
-CCTV16,https://cdn.qd.je/163189/cctv16
-CCTV16,https://cdn.qd.je/163189/cctv16-2
-五星体育,https://cdn.qd.je/163189/wxty
-
 咪咕,#genre#
 至臻视界,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
 咪视界4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
@@ -276,3 +264,18 @@ CCTV16,https://cdn.qd.je/163189/cctv16-2
 咪咕-高清赛事27,http://192.168.10.1:8888/udp/239.11.0.20:1025
 咪咕-高清赛事28,http://192.168.10.1:8888/udp/239.11.0.21:1025
 咪咕-高清赛事29,http://192.168.10.1:8888/udp/239.11.0.22:1025
+
+IPTV,#genre#
+华数爱谍战,http://192.168.10.1:8888/udp/239.10.0.8:1025
+华数爱小品,http://192.168.10.1:8888/udp/239.10.0.9:1025
+华数爱野外,http://192.168.10.1:8888/udp/239.10.0.10:1025
+华数爱法治,http://192.168.10.1:8888/udp/239.10.0.11:1025
+华数爱电影,http://192.168.10.1:8888/udp/239.10.0.12:1025
+华数爱经典,http://192.168.10.1:8888/udp/239.10.0.13:1025
+华数爱大剧,http://192.168.10.1:8888/udp/239.10.0.14:1025
+华数爱剧场,http://192.168.10.1:8888/udp/239.10.0.15:1025
+华数爱综艺,http://192.168.10.1:8888/udp/239.10.0.16:1025
+华数爱体育,http://192.168.10.1:8888/udp/239.10.0.17:1025
+华数爱动画,http://192.168.10.1:8888/udp/239.10.0.18:1025
+华数爱魅力,http://192.168.10.1:8888/udp/239.10.0.19:1025
+华数爱收视,http://192.168.10.1:8888/udp/239.10.0.20:1025

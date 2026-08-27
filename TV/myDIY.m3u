@@ -887,6 +887,28 @@ http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzru
 #EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now 爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now 爆谷台
 http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
 
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台(备)
+http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
+
+tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="电影频道",Now星影台(备)
+http://124.244.129.167:7003/0.ts
+http://qingyi.7766.org:7003/0.ts
+
+tvg-name="Now 爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now 爆谷台(备)
+http://124.244.129.167:7007/0.ts
+http://qingyi.7766.org:7007/0.ts
+
+
+#EXTINF:-1 group-title="电影频道" tvg-logo="",CHC家庭影院
+http://69.30.245.50/live/chcjt.m3u8
+
+#EXTINF:-1 group-title="电影频道" tvg-logo="",CHC动作电影
+http://69.30.245.50/live/chcdz.m3u8
+
+#EXTINF:-1 group-title="电影频道" tvg-logo="",CHC影迷电影
+http://69.30.245.50/live/chchd.m3u8
+
+
 
 
 #EXTINF:-1 group-title="咪咕" ,至臻视界
@@ -987,4 +1009,5 @@ http://192.168.10.1:8888/udp/239.10.0.18:1025
 http://192.168.10.1:8888/udp/239.10.0.19:1025
 #EXTINF:-1 group-title="IPTV" ,华数爱收视
 http://192.168.10.1:8888/udp/239.10.0.20:1025
+
 

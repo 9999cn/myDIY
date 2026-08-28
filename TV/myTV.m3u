@@ -260,31 +260,31 @@ http://192.168.10.1:8888/udp/239.11.0.95:1025
 http://192.168.10.1:8888/udp/239.10.0.126:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东岭南戏曲
 http://192.168.10.1:8888/udp/239.11.0.180:1025
-#EXTINF:-1 group-title="广东频道" ,东莞综合高清
+#EXTINF:-1 group-title="广东频道",东莞综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.137:3892
-#EXTINF:-1 group-title="广东频道" ,东莞生活高清
+#EXTINF:-1 group-title="广东频道",东莞生活高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.138:3896
-#EXTINF:-1 group-title="广东频道" ,汕头综合高清
+#EXTINF:-1 group-title="广东频道",汕头综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.101:3744
-#EXTINF:-1 group-title="广东频道" ,汕头经济高清
+#EXTINF:-1 group-title="广东频道",汕头经济高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.82:3668
-#EXTINF:-1 group-title="广东频道" ,惠州综合高清
+#EXTINF:-1 group-title="广东频道",惠州综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.27:3448
-#EXTINF:-1 group-title="广东频道" ,惠州公共高清
+#EXTINF:-1 group-title="广东频道",惠州公共高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.28:3452
-#EXTINF:-1 group-title="广东频道" ,汕尾综合高清
+#EXTINF:-1 group-title="广东频道",汕尾综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.89:3696
-#EXTINF:-1 group-title="广东频道" ,揭阳综合高清
+#EXTINF:-1 group-title="广东频道",揭阳综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.91:3704
-#EXTINF:-1 group-title="广东频道" ,潮州综合高清
+#EXTINF:-1 group-title="广东频道",潮州综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.145:3924
-#EXTINF:-1 group-title="广东频道" ,潮州民生高清
+#EXTINF:-1 group-title="广东频道",潮州民生高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.146:3928
-#EXTINF:-1 group-title="广东频道" ,梅州综合高清
+#EXTINF:-1 group-title="广东频道",梅州综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.149:3940
-#EXTINF:-1 group-title="广东频道" ,梅州客家高清
+#EXTINF:-1 group-title="广东频道",梅州客家高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.150:3944
-#EXTINF:-1 group-title="广东频道" ,河源综合高清
+#EXTINF:-1 group-title="广东频道",河源综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.28:3452
 
 
@@ -1036,5 +1036,7 @@ http://192.168.10.1:8888/udp/239.10.0.18:1025
 http://192.168.10.1:8888/udp/239.10.0.19:1025
 #EXTINF:-1 group-title="IPTV" ,华数爱收视
 http://192.168.10.1:8888/udp/239.10.0.20:1025
+
+
 
 

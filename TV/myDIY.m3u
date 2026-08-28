@@ -44,20 +44,20 @@ https://cdn.qd.je/163189/xinghe
 https://cdn.qd.je/163189/tvbxh2
 #EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(华丽马来)
 https://cdn.qd.je/163189/hlt
-#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(马来西亚)
+#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(马来字幕)
 https://cdn.qd.je/163189/jade
-#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(大马)
+#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(马来西亚)
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(新加坡)
 https://cdn.qd.je/163189/jade2
-#EXTINF:-1 group-title="Juli" tvg-logo="",HOY TV
-https://cdn.qd.je/163189/hoy
-#EXTINF:-1 group-title="Juli" tvg-logo="",HOY TV
-https://cdn.qd.je/163189/hoy2
-#EXTINF:-1 group-title="Juli" tvg-logo="",HOY资讯台
-https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 group-title="Juli" tvg-logo="",HOY国际财经台
+#EXTINF:-1 group-title="Juli" tvg-logo="",HOY76
 https://cdn.qd.je/163189/hoy76
+#EXTINF:-1 group-title="Juli" tvg-logo="",HOY77
+https://cdn.qd.je/163189/hoy
+#EXTINF:-1 group-title="Juli" tvg-logo="",HOY77
+https://cdn.qd.je/163189/hoy2
+#EXTINF:-1 group-title="Juli" tvg-logo="",HOY78
+https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 group-title="Juli" tvg-logo="",ViuTV
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 group-title="Juli" tvg-logo="",ViuTV6
@@ -899,13 +899,7 @@ http://124.244.129.167:7007/0.ts
 http://qingyi.7766.org:7007/0.ts
 
 #EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 1 UHD
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ2Xw==
-
-#EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 2 UHD
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ1Xw==
-
-#EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 3 UHD
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ0Xw==
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ2Xw===
 
 
 #EXTINF:-1 group-title="电影频道" tvg-logo="",CHC家庭影院
@@ -1018,3 +1012,4 @@ http://192.168.10.1:8888/udp/239.10.0.18:1025
 http://192.168.10.1:8888/udp/239.10.0.19:1025
 #EXTINF:-1 group-title="IPTV" ,华数爱收视
 http://192.168.10.1:8888/udp/239.10.0.20:1025
+

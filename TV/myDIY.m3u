@@ -877,26 +877,35 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 
 
 
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
 https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 #EXTINF:-1 tvg-id="stream-f3ff673d-d107-4656-bf27-051a656b76bb" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="电影频道",Now星影台
 http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
-#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now 爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now 爆谷台
+#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now爆谷台
 http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
 
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台(备)
 http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
 
-#EXTINF:-1 tvg-id="stream-f3ff673d-d107-4656-bf27-051a656b76bb" tvg-name="Now 星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now 星影台(备)
+#EXTINF:-1 tvg-id="stream-f3ff673d-d107-4656-bf27-051a656b76bb" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="电影频道",Now星影台(备)
 http://124.244.129.167:7003/0.ts
 http://qingyi.7766.org:7003/0.ts
 
-#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now 爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now 爆谷台(备)
+#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now爆谷台(备)
 http://124.244.129.167:7007/0.ts
 http://qingyi.7766.org:7007/0.ts
+
+#EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 1 UHD
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ2Xw==
+
+#EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 2 UHD
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ1Xw==
+
+#EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 3 UHD
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ0Xw==
 
 
 #EXTINF:-1 group-title="电影频道" tvg-logo="",CHC家庭影院
@@ -1009,5 +1018,3 @@ http://192.168.10.1:8888/udp/239.10.0.18:1025
 http://192.168.10.1:8888/udp/239.10.0.19:1025
 #EXTINF:-1 group-title="IPTV" ,华数爱收视
 http://192.168.10.1:8888/udp/239.10.0.20:1025
-
-

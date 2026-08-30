@@ -50,6 +50,12 @@ https://cdn.qd.je/163189/jade
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(新加坡)
 https://cdn.qd.je/163189/jade2
+#EXTINF:-1 group-title="Juli" tvg-logo="",ViuTV
+https://cdn.qd.je/163189/viu
+#EXTINF:-1 group-title="Juli" tvg-logo="",ViuTV6
+https://cdn.qd.je/163189/viu6
+#EXTINF:-1 group-title="Juli" tvg-logo="",NOW新闻台
+https://cdn.qd.je/163189/now
 #EXTINF:-1 group-title="Juli" tvg-logo="",HOY76
 https://cdn.qd.je/163189/hoy76
 #EXTINF:-1 group-title="Juli" tvg-logo="",HOY77
@@ -58,12 +64,6 @@ https://cdn.qd.je/163189/hoy
 https://cdn.qd.je/163189/hoy2
 #EXTINF:-1 group-title="Juli" tvg-logo="",HOY78
 https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 group-title="Juli" tvg-logo="",ViuTV
-https://cdn.qd.je/163189/viu
-#EXTINF:-1 group-title="Juli" tvg-logo="",ViuTV6
-https://cdn.qd.je/163189/viu6
-#EXTINF:-1 group-title="Juli" tvg-logo="",NOW新闻台
-https://cdn.qd.je/163189/now
 #EXTINF:-1 group-title="Juli" tvg-logo="",凤凰中文
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 group-title="Juli" tvg-logo="",凤凰资讯
@@ -162,11 +162,11 @@ https://cdn.qd.je/163189/wlxj
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 group-title="Juli" tvg-logo="",龙祥时代
 https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 group-title="Juli" tvg-logo="",东森电影台
+#EXTINF:-1 group-title="Juli" tvg-logo="",东森电影
 https://cdn.qd.je/163189/dsdy
-#EXTINF:-1 group-title="Juli" tvg-logo="",东森戏剧台
+#EXTINF:-1 group-title="Juli" tvg-logo="",东森戏剧
 https://cdn.qd.je/163189/dsxj
-#EXTINF:-1 group-title="Juli" tvg-logo="",东森洋片台
+#EXTINF:-1 group-title="Juli" tvg-logo="",东森洋片
 https://cdn.qd.je/163189/dsyp
 #EXTINF:-1 group-title="Juli" tvg-logo="",广州综合
 https://cdn.qd.je/163189/gzzh
@@ -175,44 +175,37 @@ https://cdn.qd.je/163189/gzxw
 #EXTINF:-1 group-title="Juli" tvg-logo="",南国都市
 https://cdn.qd.je/163189/ngds
 #EXTINF:-1 group-title="Juli" tvg-logo="",海峡卫视
-https://cdn.qd.je/163189/hxws
-#EXTINF:-1 group-title="Juli" tvg-logo="",海峡卫视
 https://cdn.qd.je/163189/hxws2
+https://cdn.qd.je/163189/hxws
 #EXTINF:-1 group-title="Juli" tvg-logo="",五星体育
 https://cdn.qd.je/163189/wxty
 
 
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东卫视超清
 http://192.168.10.1:8888/udp/239.10.0.45:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东卫视高清
 http://192.168.10.1:8888/udp/239.10.0.111:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东卫视高清
 http://192.168.10.1:8888/udp/239.10.0.42:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东卫视高清
 http://192.168.10.1:8888/udp/239.11.0.93:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东珠江超清
 http://192.168.10.1:8888/udp/239.10.0.63:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东珠江高清
 http://192.168.10.1:8888/udp/239.10.0.62:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东新闻高清
-http://192.168.10.1:8888/udp/239.10.0.199:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东民生高清
 http://192.168.10.1:8888/udp/239.11.0.80:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东体育超清
 http://192.168.10.1:8888/udp/239.10.0.47:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东体育高清
 http://192.168.10.1:8888/udp/239.10.0.113:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东经济超清
+#EXTINF:-1 group-title="广东频道" tvg-logo="",广东经济科教
 http://192.168.10.1:8888/udp/239.10.0.46:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东经济高清
 http://192.168.10.1:8888/udp/239.10.0.112:1025
+#EXTINF:-1 group-title="广东频道" tvg-logo="",广东新闻高清
+http://192.168.10.1:8888/udp/239.10.0.199:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东湾区卫视
 http://192.168.10.1:8888/udp/239.11.0.78:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东影视高清
 http://192.168.10.1:8888/udp/239.11.0.79:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东少儿高清
 http://192.168.10.1:8888/udp/239.11.0.81:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",广东嘉佳高清
+#EXTINF:-1 group-title="广东频道" tvg-logo="",广东嘉佳卡通
 http://192.168.10.1:8888/udp/239.10.0.200:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东4K超高清
 http://192.168.10.1:8888/udp/239.10.0.75:1025
@@ -222,11 +215,9 @@ http://192.168.10.1:8888/udp/239.11.0.170:1025
 http://192.168.10.1:8888/udp/239.11.0.138:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广州新闻高清
 http://192.168.10.1:8888/udp/239.11.0.139:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",肇庆综合高清
-http://192.168.10.1:8888/udp/239.11.0.53:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",佛山综合高清
 http://192.168.10.1:8888/udp/239.11.0.118:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",佛山城市高清
+#EXTINF:-1 group-title="广东频道" tvg-logo="",佛山城市生活
 http://192.168.10.1:8888/udp/239.11.0.114:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",佛山南海高清
 http://192.168.10.1:8888/udp/239.11.0.115:1025
@@ -234,19 +225,21 @@ http://192.168.10.1:8888/udp/239.11.0.115:1025
 http://192.168.10.1:8888/udp/239.11.0.116:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",珠海综合高清
 http://192.168.10.1:8888/udp/239.10.0.242:1025
+#EXTINF:-1 group-title="广东频道" tvg-logo="",肇庆综合高清
+http://192.168.10.1:8888/udp/239.11.0.53:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",中山综合高清
 http://192.168.10.1:8888/udp/239.11.0.16:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",中山综合高清
 http://192.168.10.1:8888/udp/239.11.0.122:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",江门综合高清
-http://192.168.10.1:8888/udp/239.10.0.219:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",云浮综合高清
 http://192.168.10.1:8888/udp/239.11.0.96:1025
+#EXTINF:-1 group-title="广东频道" tvg-logo="",江门综合高清
+http://192.168.10.1:8888/udp/239.10.0.219:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",阳江综合高清
 http://192.168.10.1:8888/udp/239.11.0.189:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",茂名综合高清
 http://192.168.10.1:8888/udp/239.10.0.238:1025
-#EXTINF:-1 group-title="广东频道" tvg-logo="",茂名文化高清
+#EXTINF:-1 group-title="广东频道" tvg-logo="",茂名文化生活
 http://192.168.10.1:8888/udp/239.11.0.99:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",韶关综合高清
 http://192.168.10.1:8888/udp/239.11.0.84:1025
@@ -260,6 +253,42 @@ http://192.168.10.1:8888/udp/239.11.0.95:1025
 http://192.168.10.1:8888/udp/239.10.0.126:1025
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东岭南戏曲
 http://192.168.10.1:8888/udp/239.11.0.180:1025
+#EXTINF:-1 group-title="广东频道",东莞综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.137:3892
+#EXTINF:-1 group-title="广东频道",东莞生活资讯
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.138:3896
+#EXTINF:-1 group-title="广东频道",汕头综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.101:3744
+#EXTINF:-1 group-title="广东频道",汕头经济生活
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.102:3748
+#EXTINF:-1 group-title="广东频道",惠州综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.27:3448
+#EXTINF:-1 group-title="广东频道",惠州公共高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.28:3452
+#EXTINF:-1 group-title="广东频道",汕尾综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.89:3696
+#EXTINF:-1 group-title="广东频道",揭阳综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.91:3704
+#EXTINF:-1 group-title="广东频道",潮州综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.145:3924
+#EXTINF:-1 group-title="广东频道",潮州民生高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.146:3928
+#EXTINF:-1 group-title="广东频道",梅州综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.149:3940
+#EXTINF:-1 group-title="广东频道",梅州客家生活
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.150:3944
+#EXTINF:-1 group-title="广东频道",河源综合高清
+http://gzgxzm.dpdns.org:10086/udp/239.21.0.48:3532
+#EXTINF:-1 group-title="广东频道",深圳都市频道
+http://121.10.7.16:4000/udp/239.77.1.176:5146
+#EXTINF:-1 group-title="广东频道",深圳电视频道
+http://121.10.7.16:4000/udp/239.77.1.177:5146
+#EXTINF:-1 group-title="广东频道",深圳少儿频道
+http://121.10.7.16:4000/udp/239.77.1.244:5146
+#EXTINF:-1 group-title="广东频道",深圳龙岗频道
+http://121.10.7.16:4000/udp/239.77.1.223:5146
+#EXTINF:-1 group-title="广东频道",深圳宜和频道
+http://121.10.7.16:4000/udp/239.77.1.87:5146
 
 
 #EXTINF:-1 group-title="央视频道" ,CCTV1综合
@@ -450,7 +479,10 @@ http://192.168.10.1:8888/udp/239.11.0.198:1025
 http://192.168.10.1:8888/udp/239.11.0.172:1025
 #EXTINF:-1 group-title="卫视频道" ,三沙卫视高清
 http://192.168.10.1:8888/udp/239.11.0.177:1025
-
+#EXTINF:-1 group-title="卫视频道" ,山西卫视高清
+http://120.76.248.139/live/bfgd/4200000109.m3u8
+http://204.12.221.218:8181/3m1080p/sxws.m3u8
+http://198.204.228.26/live/sxwshd.m3u8?ysp
 
 
 
@@ -890,18 +922,6 @@ http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台(备)
 http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
 
-#EXTINF:-1 tvg-id="stream-f3ff673d-d107-4656-bf27-051a656b76bb" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="电影频道",Now星影台(备)
-http://124.244.129.167:7003/0.ts
-http://qingyi.7766.org:7003/0.ts
-
-#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now爆谷台(备)
-http://124.244.129.167:7007/0.ts
-http://qingyi.7766.org:7007/0.ts
-
-#EXTINF:-1 group-title="电影频道" tvg-logo="",Now Sports 1 UHD
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTE4NzQ2Xw===
-
-
 #EXTINF:-1 group-title="电影频道" tvg-logo="",CHC家庭影院
 http://69.30.245.50/live/chcjt.m3u8
 
@@ -920,8 +940,20 @@ http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?cha
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
 #EXTINF:-1 group-title="咪咕" ,睛彩竞技
 http://192.168.10.1:8888/udp/239.11.0.183:1025
+#EXTINF:-1 group-title="咪咕" ,睛彩篮球
+http://121.10.7.16:4000/udp/239.77.0.145:5146
+#EXTINF:-1 group-title="咪咕" ,睛彩青少
+http://121.10.7.16:4000/udp/239.77.1.22:5146
 #EXTINF:-1 group-title="咪咕" ,睛彩广场舞
 http://192.168.10.1:8888/udp/239.11.0.184:1025
+
+#EXTINF:-1 group-title="咪咕" ,快乐垂钓
+http://121.10.7.16:4000/udp/239.77.0.145:5146
+#EXTINF:-1 group-title="咪咕" ,天元围棋
+http://121.10.7.16:4000/udp/239.253.43.98:5146
+#EXTINF:-1 group-title="咪咕" ,求索记录
+http://121.10.7.16:4000/udp/239.77.0.21:5146
+
 #EXTINF:-1 group-title="咪咕" ,咪咕-五大联赛1
 http://192.168.10.1:8888/udp/239.10.0.68:1025
 #EXTINF:-1 group-title="咪咕" ,咪咕-五大联赛2
@@ -1012,4 +1044,7 @@ http://192.168.10.1:8888/udp/239.10.0.18:1025
 http://192.168.10.1:8888/udp/239.10.0.19:1025
 #EXTINF:-1 group-title="IPTV" ,华数爱收视
 http://192.168.10.1:8888/udp/239.10.0.20:1025
+
+
+
 

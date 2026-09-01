@@ -180,7 +180,7 @@ https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Juli" tvg-logo="",五星体育
 https://cdn.qd.je/163189/wxty
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="广东频道i" tvg-logo="",广东卫视超清
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="广东频道" tvg-logo="",广东卫视超清
 http://192.168.10.1:8888/udp/239.10.0.45:1025
 http://192.168.10.1:8888/udp/239.10.0.111:1025
 http://192.168.10.1:8888/udp/239.10.0.42:1025
@@ -1517,8 +1517,4 @@ http://192.168.10.1:8888/udp/239.10.0.18:1025
 http://192.168.10.1:8888/udp/239.10.0.19:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱收视
 http://192.168.10.1:8888/udp/239.10.0.20:1025
-
-
-
-
 

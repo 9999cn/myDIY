@@ -2,17 +2,17 @@
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
 
-#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="",翡翠台
 https://cdn.qd.je/163189/fct2
-#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(VTT)
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="",翡翠台(VTT)
 https://cdn.qd.je/163189/fctvtt
-#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="",翡翠台4K
 https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 group-title="Juli" tvg-logo="",翡翠台(广电)
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="",翡翠台(广电)
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 group-title="Juli" tvg-logo="",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="",明珠台
 https://cdn.qd.je/163189/mzt
-#EXTINF:-1 group-title="Juli" tvg-logo="",明珠台(VTT)
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="",明珠台(VTT)
 https://cdn.qd.je/163189/mztvtt
 #EXTINF:-1 group-title="Juli" tvg-logo="",TVB Plus
 https://cdn.qd.je/163189/tvbp2
@@ -179,7 +179,6 @@ https://cdn.qd.je/163189/hxws2
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 group-title="Juli" tvg-logo="",五星体育
 https://cdn.qd.je/163189/wxty
-
 
 #EXTINF:-1 group-title="广东频道" tvg-logo="",广东卫视超清
 http://192.168.10.1:8888/udp/239.10.0.45:1025
@@ -941,7 +940,7 @@ http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?cha
 #EXTINF:-1 group-title="咪咕" ,睛彩竞技
 http://192.168.10.1:8888/udp/239.11.0.183:1025
 #EXTINF:-1 group-title="咪咕" ,睛彩篮球
-http://121.10.7.16:4000/udp/239.77.0.145:5146
+http://121.10.7.16:4000/udp/239.77.1.21:5146
 #EXTINF:-1 group-title="咪咕" ,睛彩青少
 http://121.10.7.16:4000/udp/239.77.1.22:5146
 #EXTINF:-1 group-title="咪咕" ,睛彩广场舞

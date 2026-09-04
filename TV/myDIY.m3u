@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv.yang-1989.xyz/epg.xml.gz,https://epg.aptv.app,https://epg.aptv.app/pp.xml.gz"
+#EXTM3U url-tvg="https://epg.aptv.app/,https://epg.aptv.app/pp.xml.gz" x-tvg-url="https://epg.aptv.app/,https://epg.aptv.app/pp.xml.gz"
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
 
@@ -52,17 +52,17 @@ https://cdn.qd.je/163189/hlfct
 https://cdn.qd.je/163189/jade2
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="Juli" tvg-logo="",ViuTV
 https://cdn.qd.je/163189/viu
-#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" group-title="Juli" tvg-logo="",ViuTV6
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTVsix" group-title="Juli" tvg-logo="",ViuTV6
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" group-title="Juli" tvg-logo="",Now新闻台
 https://cdn.qd.je/163189/now
-#EXTINF:-1 tvg-id="Hoy76" tvg-name="Hoy76" group-title="Juli" tvg-logo="",HOY76
+#EXTINF:-1 tvg-id="Hoy76" tvg-name="HOY 國際財經台" group-title="Juli" tvg-logo="",HOY76
 https://cdn.qd.je/163189/hoy76
-#EXTINF:-1 tvg-id="Hoy77" tvg-name="Hoy77" group-title="Juli" tvg-logo="",HOY77
+#EXTINF:-1 tvg-id="Hoy77" tvg-name="HOY 資訊台" group-title="Juli" tvg-logo="",HOY77
 https://cdn.qd.je/163189/hoy
-#EXTINF:-1 tvg-id="Hoy77" tvg-name="Hoy77" group-title="Juli" tvg-logo="",HOY77
+#EXTINF:-1 tvg-id="Hoy77" tvg-name="HOY 資訊台" group-title="Juli" tvg-logo="",HOY77
 https://cdn.qd.je/163189/hoy2
-#EXTINF:-1 tvg-id="Hoy78" tvg-name="Hoy78" group-title="Juli" tvg-logo="",HOY78
+#EXTINF:-1 tvg-id="Hoy78" tvg-name="HOY TV" group-title="Juli" tvg-logo="",HOY78
 https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="Juli" tvg-logo="",凤凰中文
 https://cdn.qd.je/163189/fhzw
@@ -146,13 +146,13 @@ https://cdn.qd.je/163189/amc
 https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="MCE电影台" tvg-name="MCE电影台" group-title="Juli" tvg-logo="",MCE电影台
 https://cdn.qd.je/163189/mce
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" group-title="Juli" tvg-logo="",经典电影台
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" group-title="Juli" tvg-logo="",经典电影台
 https://cdn.qd.je/163189/jddyt
 #EXTINF:-1 tvg-id="CMusic" tvg-name="CMusic" group-title="Juli" tvg-logo="",CMusic
 https://cdn.qd.je/163189/cmusic
 #EXTINF:-1 tvg-id="梦工厂动画" tvg-name="梦工厂动画" group-title="Juli" tvg-logo="",梦工厂动画
 https://cdn.qd.je/163189/dreamworks
-#EXTINF:-1 tvg-id="精选动漫" tvg-name="精选动漫" group-title="Juli" tvg-logo="",精选动漫台
+#EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" group-title="Juli" tvg-logo="",精选动漫台
 https://cdn.qd.je/163189/jxdmt
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Juli" tvg-logo="",纬来电影台
 https://cdn.qd.je/163189/wldy
@@ -190,7 +190,7 @@ http://192.168.10.1:8888/rtp/239.10.0.63:1025
 http://192.168.10.1:8888/rtp/239.10.0.62:1025
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="广东频道" tvg-logo="",广东民生高清
 http://192.168.10.1:8888/rtp/239.11.0.80:1025
-#EXTINF:-1 tvg-id="广东体育" tvg-name="体育" group-title="广东频道" tvg-logo="",广东体育超清
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="广东频道" tvg-logo="",广东体育超清
 http://192.168.10.1:8888/rtp/239.10.0.47:1025
 http://192.168.10.1:8888/rtp/239.10.0.113:1025
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="广东频道" tvg-logo="",广东经济科教
@@ -292,7 +292,6 @@ http://121.10.7.16:4000/udp/239.77.1.87:5146
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道" tvg-logo="",CCTV1综合
 http://192.168.10.1:8888/rtp/239.10.0.48:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV1综合
 http://192.168.10.1:8888/rtp/239.10.0.114:1025
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道" tvg-logo="",CCTV2财经
 http://192.168.10.1:8888/rtp/239.10.0.207:1025
@@ -348,33 +347,33 @@ http://192.168.10.1:8888/rtp/239.11.0.108:1025
 http://192.168.10.1:8888/rtp/239.10.0.223:1025
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="央视频道" tvg-logo="",CETV4高清
 http://192.168.10.1:8888/rtp/239.11.0.176:1025/
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CETV早期教育
+#EXTINF:-1 tvg-id="CETV早期教育" tvg-name="CETV早期教育" group-title="央视频道" tvg-logo="",CETV早期教育
 http://192.168.10.1:8888/rtp/239.11.0.100:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" group-title="央视频道" tvg-logo="",CCTV兵器科技
 http://192.168.10.1:8888/rtp/239.11.0.57:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV电视指南
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" group-title="央视频道" tvg-logo="",CCTV电视指南
 http://192.168.10.1:8888/rtp/239.11.0.58:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="央视频道" tvg-logo="",CCTV风云足球
 http://192.168.10.1:8888/rtp/239.11.0.59:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV央视台球
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" group-title="央视频道" tvg-logo="",CCTV央视台球
 http://192.168.10.1:8888/rtp/239.11.0.60:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="央视频道" tvg-logo="",CCTV高尔夫网球
 http://192.168.10.1:8888/rtp/239.11.0.61:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV女性时尚
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" group-title="央视频道" tvg-logo="",CCTV女性时尚
 http://192.168.10.1:8888/rtp/239.11.0.62:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV世界地理
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" group-title="央视频道" tvg-logo="",CCTV世界地理
 http://192.168.10.1:8888/rtp/239.11.0.63:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" group-title="央视频道" tvg-logo="",CCTV怀旧剧场
 http://192.168.10.1:8888/rtp/239.11.0.64:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV风云剧场
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" group-title="央视频道" tvg-logo="",CCTV风云剧场
 http://192.168.10.1:8888/rtp/239.11.0.65:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV文化精品
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" group-title="央视频道" tvg-logo="",CCTV文化精品
 http://192.168.10.1:8888/rtp/239.11.0.66:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV第一剧场
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" group-title="央视频道" tvg-logo="",CCTV第一剧场
 http://192.168.10.1:8888/rtp/239.11.0.67:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV风云音乐
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" group-title="央视频道" tvg-logo="",CCTV风云音乐
 http://192.168.10.1:8888/rtp/239.11.0.68:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="央视频道" tvg-logo="",CCTV卫生健康
+#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" group-title="央视频道" tvg-logo="",CCTV卫生健康
 http://192.168.10.1:8888/rtp/239.11.0.185:1025
 
 

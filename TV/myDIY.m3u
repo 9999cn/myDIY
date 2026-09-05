@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://iptv.yang-1989.xyz/epg.xml.gz" x-tvg-url="https://epg.pw/xmltv/epg.xml.gz,https://iptv.yang-1989.xyz/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml" x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
 

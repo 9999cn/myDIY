@@ -206,7 +206,7 @@ http://192.168.10.1:8888/rtp/239.11.0.79:1025
 http://192.168.10.1:8888/rtp/239.11.0.81:1025
 #EXTINF:-1 tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/嘉佳卡通.PNG",广东嘉佳卡通
 http://192.168.10.1:8888/rtp/239.10.0.200:1025
-#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" group-title="广东频道" tvg-logo="",广东岭南戏曲
+#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/岭南戏曲.WEBP",广东岭南戏曲
 http://192.168.10.1:8888/rtp/239.11.0.180:1025
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东4K超高清.WEBP",广东4K超高清
 http://192.168.10.1:8888/rtp/239.10.0.75:1025
@@ -216,67 +216,65 @@ http://192.168.10.1:8888/rtp/239.11.0.170:1025
 http://192.168.10.1:8888/rtp/239.11.0.138:1025
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广州新闻.WEBP",广州新闻高清
 http://192.168.10.1:8888/rtp/239.11.0.139:1025
-#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" group-title="广东频道" tvg-logo="",佛山综合高清
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/佛山综合.png",佛山综合高清
 http://192.168.10.1:8888/rtp/239.11.0.118:1025
-#EXTINF:-1 tvg-id="佛山城市生活" tvg-name="佛山城市生活" group-title="广东频道" tvg-logo="",佛山城市生活
+#EXTINF:-1 tvg-id="佛山城市生活" tvg-name="佛山城市生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/佛山城市生活.png",佛山城市生活
 http://192.168.10.1:8888/rtp/239.11.0.114:1025
-#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" group-title="广东频道" tvg-logo="",佛山南海高清
+#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/佛山南海.png",佛山南海高清
 http://192.168.10.1:8888/rtp/239.11.0.115:1025
-#EXTINF:-1 tvg-id="佛山顺德" tvg-name="佛山顺德" group-title="广东频道" tvg-logo="",佛山顺德高清
+#EXTINF:-1 tvg-id="佛山顺德" tvg-name="佛山顺德" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/佛山顺德.png",佛山顺德高清
 http://192.168.10.1:8888/rtp/239.11.0.116:1025
-#EXTINF:-1 tvg-id="珠海综合" tvg-name="珠海综合" group-title="广东频道" tvg-logo="",珠海综合高清
+#EXTINF:-1 tvg-id="珠海综合" tvg-name="珠海综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/珠海综合.png",珠海综合高清
 http://192.168.10.1:8888/rtp/239.10.0.242:1025
-#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" group-title="广东频道" tvg-logo="",肇庆综合高清
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/肇庆综合.png",肇庆综合高清
 http://192.168.10.1:8888/rtp/239.11.0.53:1025
-#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" group-title="广东频道" tvg-logo="",中山综合高清
+#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/中山综合.png",中山综合高清
 http://192.168.10.1:8888/rtp/239.11.0.16:1025
-#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" group-title="广东频道" tvg-logo="",中山综合高清
 http://192.168.10.1:8888/rtp/239.11.0.122:1025
-#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" group-title="广东频道" tvg-logo="",云浮综合高清
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/云浮综合.png",云浮综合高清
 http://192.168.10.1:8888/rtp/239.11.0.96:1025
-#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" group-title="广东频道" tvg-logo="",江门综合高清
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/江门综合.png",江门综合高清
 http://192.168.10.1:8888/rtp/239.10.0.219:1025
-#EXTINF:-1 tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" group-title="广东频道" tvg-logo="",韶关新闻综合
+#EXTINF:-1 tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/韶关新闻综合.png",韶关新闻综合
 http://192.168.10.1:8888/rtp/239.11.0.84:1025
-#EXTINF:-1 tvg-id="清远综合" tvg-name="清远综合" group-title="广东频道" tvg-logo="",清远综合高清
+#EXTINF:-1 tvg-id="清远新闻综合" tvg-name="清远新闻综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/清远新闻综合.png",清远新闻综合
 http://192.168.10.1:8888/rtp/239.11.0.74:1025
-#EXTINF:-1 tvg-id="阳江综合" tvg-name="阳江综合" group-title="广东频道" tvg-logo="",阳江综合高清
+#EXTINF:-1 tvg-id="阳江综合" tvg-name="阳江综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/阳江综合.png",阳江综合高清
 http://192.168.10.1:8888/rtp/239.11.0.189:1025
-#EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" group-title="广东频道" tvg-logo="",茂名综合高清
+#EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/茂名综合.png",茂名综合高清
 http://192.168.10.1:8888/rtp/239.10.0.238:1025
-#EXTINF:-1 tvg-id="茂名文化生活" tvg-name="茂名文化生活" group-title="广东频道" tvg-logo="",茂名文化生活
+#EXTINF:-1 tvg-id="茂名文化生活" tvg-name="茂名文化生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/茂名文化生活.png",茂名文化生活
 http://192.168.10.1:8888/rtp/239.11.0.99:1025
-#EXTINF:-1 tvg-id="湛江新闻综合" tvg-name="湛江新闻综合" group-title="广东频道" tvg-logo="",湛江新闻综合
+#EXTINF:-1 tvg-id="湛江新闻综合" tvg-name="湛江新闻综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/湛江新闻综合.png",湛江新闻综合
 http://192.168.10.1:8888/rtp/239.10.0.253:1025
-#EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" group-title="广东频道" tvg-logo="",广东南方购物
+#EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东南方购物.png",广东南方购物
 http://192.168.10.1:8888/rtp/239.11.0.95:1025
-#EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" group-title="广东频道" tvg-logo="",广东南方购物
 http://192.168.10.1:8888/rtp/239.10.0.126:1025
-#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" group-title="广东频道" tvg-logo="",东莞新闻综合
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/东莞新闻综合.png",东莞新闻综合
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.137:3892
-#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" group-title="广东频道" tvg-logo="",东莞生活资讯
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/东莞生活资讯.png",东莞生活资讯
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.138:3896
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="广东频道" tvg-logo="",汕头综合高清
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头综合.png",汕头综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.101:3744
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="广东频道" tvg-logo="",汕头经济生活
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头经济生活.png",汕头经济生活
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.102:3748
-#EXTINF:-1 tvg-id="惠州综合" tvg-name="惠州综合" group-title="广东频道" tvg-logo="",惠州综合高清
+#EXTINF:-1 tvg-id="惠州综合" tvg-name="惠州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/惠州综合.png",惠州综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.27:3448
-#EXTINF:-1 tvg-id="惠州公共" tvg-name="惠州公共" group-title="广东频道" tvg-logo="",惠州公共高清
+#EXTINF:-1 tvg-id="惠州公共" tvg-name="惠州公共" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/惠州综合.png",惠州公共高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.28:3452
-#EXTINF:-1 tvg-id="汕尾综合" tvg-name="汕尾综合" group-title="广东频道" tvg-logo="",汕尾综合高清
+#EXTINF:-1 tvg-id="汕尾综合" tvg-name="汕尾综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕尾综合.png",汕尾综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.89:3696
-#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" group-title="广东频道" tvg-logo="",揭阳综合高清
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/揭阳综合.png",揭阳综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.91:3704
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" group-title="广东频道" tvg-logo="",潮州综合高清
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/潮州综合.png",潮州综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.145:3924
-#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" group-title="广东频道" tvg-logo="",潮州民生高清
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/潮州民生.png",潮州民生高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.146:3928
-#EXTINF:-1 tvg-id="梅州综合" tvg-name="梅州综合" group-title="广东频道" tvg-logo="",梅州综合高清
+#EXTINF:-1 tvg-id="梅州综合" tvg-name="梅州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/梅州综合.png",梅州综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.149:3940
-#EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" group-title="广东频道" tvg-logo="",梅州客家生活
+#EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/梅州客家生活.png",梅州客家生活
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.150:3944
-#EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" group-title="广东频道" tvg-logo="",河源综合高清
+#EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/河源综合.png",河源综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.48:3532
 
 
@@ -909,6 +907,28 @@ http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzru
 http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台(备)
 http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
+#EXTINF:-1 tvg-id="stream-f3ff673d-d107-4656-bf27-051a656b76bb" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(备)
+http://124.244.129.167:7003/0.ts
+http://qingyi.7766.org:7003/0.ts
+#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(备)
+http://124.244.129.167:7007/0.ts
+http://qingyi.7766.org:7007/0.ts
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC家庭影院.png",CHC家庭影院
+http://xz.78057805.xyz:4002/rtp/225.1.4.209:1262
+http://219.155.101.174:4022/rtp/225.1.4.209:1262
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC动作电影.png",CHC动作电影
+http://xz.78057805.xyz:4002/rtp/225.1.4.208:1261
+http://219.155.101.174:4022/rtp/225.1.4.208:1261
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC影迷电影.png",CHC影迷电影
+http://xz.78057805.xyz:4002/rtp/225.1.4.207:1260
+http://219.155.101.174:4022/rtp/225.1.4.207:1260
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+http://69.30.245.50/live/chchd.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Hoy76" tvg-name="Hoy76" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76

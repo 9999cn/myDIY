@@ -42,7 +42,7 @@ https://cdn.qd.je/163189/tvbxh2
 https://cdn.qd.je/163189/hlt
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来字幕)
 https://cdn.qd.je/163189/jade
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="",翡翠台(马来西亚)
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来西亚)
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(新加坡)
 https://cdn.qd.je/163189/jade2
@@ -175,6 +175,11 @@ https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" group-title="Juli" tvg-logo="",五星体育
 https://cdn.qd.je/163189/wxty
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/广东卫视.WEBP",广东卫视超清
 http://192.168.10.1:8888/rtp/239.10.0.45:1025
 http://192.168.10.1:8888/rtp/239.10.0.111:1025
@@ -249,7 +254,7 @@ http://192.168.10.1:8888/rtp/239.10.0.126:1025
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.137:3892
 #EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/东莞生活资讯.png",东莞生活资讯
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.138:3896
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头综合.png",汕头综合高清
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头综合.PNG",汕头综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头经济生活.png",汕头经济生活
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.102:3748
@@ -271,6 +276,12 @@ http://gzgxzm.dpdns.org:10086/udp/239.21.0.149:3940
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.150:3944
 #EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/河源综合.png",河源综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.48:3532
+
+
+
+
+
+
 
 
 
@@ -360,6 +371,9 @@ http://192.168.10.1:8888/rtp/239.11.0.67:1025
 http://192.168.10.1:8888/rtp/239.11.0.68:1025
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/央视/CCTV卫生健康.WEBP",CCTV卫生健康
 http://192.168.10.1:8888/rtp/239.11.0.185:1025
+
+
+
 
 
 
@@ -463,6 +477,8 @@ http://192.168.10.1:8888/rtp/239.11.0.177:1025
 http://192.168.10.1:8888/rtp/239.11.0.125:1025
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/湖南卫视.WEBP",金鹰纪实高清
 http://192.168.10.1:8888/rtp/239.10.0.206:1025
+
+
 
 
 
@@ -891,24 +907,35 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 
 
 
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台
+
+
+
+
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
 https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="电影频道",Now星影台
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台
 http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="电影频道",Now爆谷台
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台
 http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://php.946985.filegear-sg.me/logo/美亞電影台.png" group-title="电影频道",美亚电影台(备)
+
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(备)
 http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
-#EXTINF:-1 tvg-id="stream-f3ff673d-d107-4656-bf27-051a656b76bb" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(备)
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(备)
 http://124.244.129.167:7003/0.ts
 http://qingyi.7766.org:7003/0.ts
-#EXTINF:-1 tvg-id="stream-b5dabe7a-42fe-4a46-9a52-27ae71d1db0a" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(备)
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(备)
 http://124.244.129.167:7007/0.ts
 http://qingyi.7766.org:7007/0.ts
 
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(10/8效期)
+https://rust.946985.filegear-sg.me/proxy/d43cc2b3c39e6910?token=9sK2vN5mQzx2mN7vK5sP1
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(10/8效期)
 https://rust.946985.filegear-sg.me/proxy/df40c4b63809e789?token=9sK2vN5mQzx2mN7vK5sP1
 https://rust.946985.filegear-sg.me/proxy/fbd65a3189a3ebfe?token=9sK2vN5mQzx2mN7vK5sP1
@@ -917,20 +944,25 @@ https://rust.946985.filegear-sg.me/proxy/216da0a400f76e56?token=9sK2vN5mQzx2mN7v
 https://rust.946985.filegear-sg.me/proxy/adb22b88fdc1e3e2?token=9sK2vN5mQzx2mN7vK5sP1
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC家庭影院.png",CHC家庭影院
-http://xz.78057805.xyz:4002/rtp/225.1.4.209:1262
-http://219.155.101.174:4022/rtp/225.1.4.209:1262
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 http://69.30.245.50/live/chcjt.m3u8
+http://xz.78057805.xyz:4002/rtp/225.1.4.209:1262
+http://219.155.101.174:4022/rtp/225.1.4.209:1262
+
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC动作电影.png",CHC动作电影
-http://xz.78057805.xyz:4002/rtp/225.1.4.208:1261
-http://219.155.101.174:4022/rtp/225.1.4.208:1261
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 http://69.30.245.50/live/chcdz.m3u8
+http://xz.78057805.xyz:4002/rtp/225.1.4.208:1261
+http://219.155.101.174:4022/rtp/225.1.4.208:1261
+
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC影迷电影.png",CHC影迷电影
-http://xz.78057805.xyz:4002/rtp/225.1.4.207:1260
-http://219.155.101.174:4022/rtp/225.1.4.207:1260
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 http://69.30.245.50/live/chchd.m3u8
+http://xz.78057805.xyz:4002/rtp/225.1.4.207:1260
+http://219.155.101.174:4022/rtp/225.1.4.207:1260
+
+
+
 
 
 
@@ -958,6 +990,14 @@ https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳视综艺" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门综艺.WEBP",澳门综艺
 https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",至臻视界
@@ -1044,6 +1084,12 @@ http://192.168.10.1:8888/rtp/239.11.0.20:1025
 http://192.168.10.1:8888/rtp/239.11.0.21:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事29
 http://192.168.10.1:8888/rtp/239.11.0.22:1025
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱谍片
 http://192.168.10.1:8888/rtp/239.10.0.8:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱小品

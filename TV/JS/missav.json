@@ -1,0 +1,21 @@
+{
+  "key": "MissAV",
+  "name": "MissAV 视频",
+  "type": 3,
+  "api": "https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/JS/missav.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "style": {
+    "type": "rect",
+    "ratio": 1.78
+  },
+  "ext": {
+    "site_url": "https://missav.ws",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
+      "Referer": "https://missav.ws/"
+    }
+  }
+}

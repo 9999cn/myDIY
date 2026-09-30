@@ -943,6 +943,9 @@ https://rust.946985.filegear-sg.me/proxy/fbd65a3189a3ebfe?token=9sK2vN5mQzx2mN7v
 https://rust.946985.filegear-sg.me/proxy/216da0a400f76e56?token=9sK2vN5mQzx2mN7vK5sP1
 https://rust.946985.filegear-sg.me/proxy/adb22b88fdc1e3e2?token=9sK2vN5mQzx2mN7vK5sP1
 
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
+http://192.168.10.11:8080/lotus.m3u8
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/CHC家庭影院.png",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 http://69.30.245.50/live/chcjt.m3u8

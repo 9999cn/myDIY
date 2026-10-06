@@ -35,9 +35,9 @@ https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB功夫台.WEBP",TVB 功夫台
 https://cdn.qd.je/163189/yzwx
 #EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB星河台.WEBP",TVB 星河台
+https://cdn.qd.je/163189/tvbxh2
 https://cdn.qd.je/163189/tvbxh
 https://cdn.qd.je/163189/xinghe
-https://cdn.qd.je/163189/tvbxh2
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(华丽马来)
 https://cdn.qd.je/163189/hlt
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来字幕)
@@ -917,9 +917,6 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
 https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(备)
-http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
-
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台
 http://124.244.129.167:7003/0.ts
 http://qingyi.7766.org:7003/0.ts
@@ -929,13 +926,13 @@ http://124.244.129.167:7007/0.ts
 http://qingyi.7766.org:7007/0.ts
 
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(852)
-http://iptv.852851.xyz/l/vDb6WTmXQwBLBjUpzDoqmaii7k65JeYkFZFFDO4FVBYPU7U5uHdRzh6gELq40saw/index.m3u8
+http://good.852851.xyz/l/vDb6WTmXQwBLBjUpzDoqmaii7k65JeYkFZFFDO4FVBYPU7U5uHdRzh6gELq40saw/index.m3u8
 
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(852)
-http://iptv.852851.xyz/l/tfQTfU0y8ToFYYYttrJugF_rwxoghyE_k1QSqkPud9_zLJmMHY-Q-zGHpZ9pc2Ib/index.m3u8
+http://good.852851.xyz/l/tfQTfU0y8ToFYYYttrJugF_rwxoghyE_k1QSqkPud9_zLJmMHY-Q-zGHpZ9pc2Ib/index.m3u8
 
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(852)
-http://iptv.852851.xyz/l/8KJ0Jn06DVmLfRsuPSogYPhSlxwA7iqWd-LPIs0gSXz45Jm9D-z2zi5jYV70k_rB/index.m3u8
+http://good.852851.xyz/l/8KJ0Jn06DVmLfRsuPSogYPhSlxwA7iqWd-LPIs0gSXz45Jm9D-z2zi5jYV70k_rB/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(10/8效期)

@@ -967,9 +967,9 @@ http://219.155.101.174:4022/rtp/225.1.4.207:1260
 
 
 
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/无线新闻台.WEBP" group-title="HK",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台
 https://php.946985.filegear-sg.me/tvbnews.php?id=c
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/无线新闻台.WEBP" group-title="HK",无线新闻台国际版
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台国际版
 https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 
 #EXTINF:-1 tvg-id="Hoy76" tvg-name="Hoy76" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76

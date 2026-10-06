@@ -10,15 +10,21 @@ https://cdn.qd.je/163189/fctvtt
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(广电)
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台
-https://cdn.qd.je/163189/mzt
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台(VTT)
-https://cdn.qd.je/163189/mztvtt
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV.WEBP",ViuTV
+https://cdn.qd.je/163189/viu
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTVsix" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV6.WEBP",ViuTV6
+https://cdn.qd.je/163189/viu6
+#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/Now新闻台.WEBP",Now新闻台
+https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVBPlus.WEBP",TVB Plus
 https://cdn.qd.je/163189/tvbp2
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVBPlus.WEBP",TVB Plus(VTT)
 https://cdn.qd.je/163189/tvbpvtt
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台
+https://cdn.qd.je/163189/mzt
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台(VTT)
+https://cdn.qd.je/163189/mztvtt
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP",无线新闻台
 https://cdn.qd.je/163189/wxxw
 https://cdn.qd.je/163189/wxxwt
@@ -46,12 +52,6 @@ https://cdn.qd.je/163189/jade
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(新加坡)
 https://cdn.qd.je/163189/jade2
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV.WEBP",ViuTV
-https://cdn.qd.je/163189/viu
-#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTVsix" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV6.WEBP",ViuTV6
-https://cdn.qd.je/163189/viu6
-#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/Now新闻台.WEBP",Now新闻台
-https://cdn.qd.je/163189/now
 #EXTINF:-1 tvg-id="Hoy76" tvg-name="HOY 國際財經台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76
 https://cdn.qd.je/163189/hoy76
 #EXTINF:-1 tvg-id="Hoy77" tvg-name="HOY 資訊台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY77.WEBP",HOY77
@@ -967,6 +967,10 @@ http://219.155.101.174:4022/rtp/225.1.4.207:1260
 
 
 
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/无线新闻台.WEBP" group-title="HK",无线新闻台
+https://php.946985.filegear-sg.me/tvbnews.php?id=c
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/无线新闻台.WEBP" group-title="HK",无线新闻台国际版
+https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 
 #EXTINF:-1 tvg-id="Hoy76" tvg-name="Hoy76" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8

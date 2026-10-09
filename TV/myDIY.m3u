@@ -934,14 +934,6 @@ http://good.852851.xyz/l/tfQTfU0y8ToFYYYttrJugF_rwxoghyE_k1QSqkPud9_zLJmMHY-Q-zG
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(852)
 http://good.852851.xyz/l/8KJ0Jn06DVmLfRsuPSogYPhSlxwA7iqWd-LPIs0gSXz45Jm9D-z2zi5jYV70k_rB/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(10/8效期)
-https://rust.946985.filegear-sg.me/proxy/df40c4b63809e789?token=9sK2vN5mQzx2mN7vK5sP1
-https://rust.946985.filegear-sg.me/proxy/fbd65a3189a3ebfe?token=9sK2vN5mQzx2mN7vK5sP1
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(10/8效期)
-https://rust.946985.filegear-sg.me/proxy/216da0a400f76e56?token=9sK2vN5mQzx2mN7vK5sP1
-https://rust.946985.filegear-sg.me/proxy/adb22b88fdc1e3e2?token=9sK2vN5mQzx2mN7vK5sP1
-
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
 http://192.168.10.11:8080/lotus.m3u8
 
@@ -969,7 +961,7 @@ http://219.155.101.174:4022/rtp/225.1.4.207:1260
 
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台
 https://php.946985.filegear-sg.me/tvbnews.php?id=c
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台国际版
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台IN
 https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 
 #EXTINF:-1 tvg-id="Hoy76" tvg-name="Hoy76" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76

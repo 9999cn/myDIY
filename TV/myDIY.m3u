@@ -405,8 +405,6 @@ http://192.168.10.1:8888/rtp/239.11.0.205:1025
 http://192.168.10.1:8888/rtp/239.10.0.45:1025
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/深圳卫视.WEBP",深圳卫视超清
 http://192.168.10.1:8888/rtp/239.10.0.52:1025
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/山东卫视.WEBP",山东卫视超清
-http://192.168.10.1:8888/rtp/239.10.0.56:1025
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/湖南卫视.WEBP",湖南卫视高清
 http://192.168.10.1:8888/rtp/239.10.0.115:1025
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/北京卫视.WEBP",北京卫视高清
@@ -419,7 +417,7 @@ http://192.168.10.1:8888/rtp/239.10.0.183:1025
 http://192.168.10.1:8888/rtp/239.10.0.179:1025
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/江苏卫视.WEBP",江苏卫视高清
 http://192.168.10.1:8888/rtp/239.10.0.180:1025
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/东南卫视.WEBP",东南卫视高清
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/东南卫视.WEBP",福建东南卫视
 http://192.168.10.1:8888/rtp/239.10.0.77:1025
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/河北卫视.WEBP",河北卫视高清
 http://192.168.10.1:8888/rtp/239.10.0.79:1025
@@ -437,6 +435,7 @@ http://192.168.10.1:8888/rtp/239.10.0.134:1025
 http://192.168.10.1:8888/rtp/239.10.0.181:1025
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/山东卫视.WEBP",山东卫视高清
 http://192.168.10.1:8888/rtp/239.10.0.182:1025
+http://192.168.10.1:8888/rtp/239.10.0.56:1025
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/安徽卫视.WEBP",安徽卫视高清
 http://192.168.10.1:8888/rtp/239.10.0.203:1025
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/四川卫视.WEBP",四川卫视高清
@@ -471,7 +470,7 @@ http://192.168.10.1:8888/rtp/239.11.0.197:1025
 http://192.168.10.1:8888/rtp/239.11.0.198:1025
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/海南卫视.WEBP",海南卫视高清
 http://192.168.10.1:8888/rtp/239.11.0.172:1025
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/三沙卫视.WEBP",三沙卫视高清
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/三沙卫视.WEBP",海南三沙卫视
 http://192.168.10.1:8888/rtp/239.11.0.177:1025
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/湖南卫视.WEBP",金鹰卡通高清
 http://192.168.10.1:8888/rtp/239.11.0.125:1025
@@ -1018,9 +1017,9 @@ http://121.10.7.16:4000/udp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",求索记录
 http://121.10.7.16:4000/udp/239.77.0.21:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-五大联赛1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-五大联赛4K-1
 http://192.168.10.1:8888/rtp/239.10.0.68:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-五大联赛2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-五大联赛4K-2
 http://192.168.10.1:8888/rtp/239.10.0.69:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事1
 http://192.168.10.1:8888/rtp/239.10.0.87:1025
@@ -1046,8 +1045,6 @@ http://192.168.10.1:8888/rtp/239.11.0.1:1025
 http://192.168.10.1:8888/rtp/239.11.0.2:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事12
 http://192.168.10.1:8888/rtp/239.11.0.3:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事12
-http://192.168.10.1:8888/rtp/239.11.0.3:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事13
 http://192.168.10.1:8888/rtp/239.11.0.4:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事14
@@ -1069,18 +1066,14 @@ http://192.168.10.1:8888/rtp/239.11.0.12:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事22
 http://192.168.10.1:8888/rtp/239.11.0.13:1025
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事23
-http://192.168.10.1:8888/rtp/239.11.0.14:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事24
-http://192.168.10.1:8888/rtp/239.11.0.15:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事25
 http://192.168.10.1:8888/rtp/239.11.0.18:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事26
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事24
 http://192.168.10.1:8888/rtp/239.11.0.19:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事27
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事25
 http://192.168.10.1:8888/rtp/239.11.0.20:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事28
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事26
 http://192.168.10.1:8888/rtp/239.11.0.21:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事29
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事27
 http://192.168.10.1:8888/rtp/239.11.0.22:1025
 
 
@@ -1088,31 +1081,31 @@ http://192.168.10.1:8888/rtp/239.11.0.22:1025
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱谍片
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815324737448958.png" ,IPTV爱谍片
 http://192.168.10.1:8888/rtp/239.10.0.8:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱小品
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815304569835027.png" ,IPTV爱小品
 http://192.168.10.1:8888/rtp/239.10.0.9:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱野外
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815310013729062.png" ,IPTV爱野外
 http://192.168.10.1:8888/rtp/239.10.0.10:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱法治
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815311052567688.png" ,IPTV爱法治
 http://192.168.10.1:8888/rtp/239.10.0.11:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱电影
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815311950731104.png" ,IPTV爱电影
 http://192.168.10.1:8888/rtp/239.10.0.12:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱经典
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815312970903087.png" ,IPTV爱经典
 http://192.168.10.1:8888/rtp/239.10.0.13:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱大剧
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815313775513345.png" ,IPTV爱大剧
 http://192.168.10.1:8888/rtp/239.10.0.14:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱剧场
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815315002454266.png" ,IPTV爱剧场
 http://192.168.10.1:8888/rtp/239.10.0.15:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱综艺
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815315705725657.png" ,IPTV爱综艺
 http://192.168.10.1:8888/rtp/239.10.0.16:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱体育
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815355544648228.png" ,IPTV爱体育
 http://192.168.10.1:8888/rtp/239.10.0.17:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱动画
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815321620754390.png" ,IPTV爱动画
 http://192.168.10.1:8888/rtp/239.10.0.18:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱魅力
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815322782009249.png" ,IPTV爱魅力
 http://192.168.10.1:8888/rtp/239.10.0.19:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="" ,华数爱收视
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPTV" tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815323827810747.png" ,IPTV爱收视
 http://192.168.10.1:8888/rtp/239.10.0.20:1025
 
 

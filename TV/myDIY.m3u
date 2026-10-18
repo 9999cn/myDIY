@@ -925,13 +925,13 @@ http://124.244.129.167:7007/0.ts
 http://qingyi.7766.org:7007/0.ts
 
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(852)
-http://good.852851.xyz/l/vDb6WTmXQwBLBjUpzDoqmaii7k65JeYkFZFFDO4FVBYPU7U5uHdRzh6gELq40saw/index.m3u8
+http://good.852851.xyz/l/4oA3waSljUPFFglF2uVbkV7PY7nODGGY61N7YiRD--bz2kM1nlbnKz0LxUQ_UP_k/index.m3u8
 
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(852)
-http://good.852851.xyz/l/tfQTfU0y8ToFYYYttrJugF_rwxoghyE_k1QSqkPud9_zLJmMHY-Q-zGHpZ9pc2Ib/index.m3u8
+http://good.852851.xyz/l/9MXdiRSb3FRtDajuA2mGTXDwLsEWrgx_xtUA-5Dzsjb8ezRBExU-8OGQrReyDogj/index.m3u8
 
 #EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(852)
-http://good.852851.xyz/l/8KJ0Jn06DVmLfRsuPSogYPhSlxwA7iqWd-LPIs0gSXz45Jm9D-z2zi5jYV70k_rB/index.m3u8
+http://good.852851.xyz/l/xhyC7QuLdufh56m5KsrI_FKUbwtvGnxmb-VrtLJm90JmXNBlpodkKhmI2zA2i9yx/index.m3u8
 
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
 http://192.168.10.11:8080/lotus.m3u8
@@ -997,83 +997,83 @@ https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",至臻视界
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",至臻视界
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪视界4K
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪视界4K
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/睛彩竞技.WEBP",睛彩竞技
 http://192.168.10.1:8888/rtp/239.11.0.183:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/睛彩篮球.WEBP",睛彩篮球
 http://121.10.7.16:4000/udp/239.77.1.21:5146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",睛彩青少
+#EXTINF:-1 tvg-id=",睛彩青少" tvg-name=",睛彩青少" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/睛彩青少.WEBP",睛彩青少
 http://121.10.7.16:4000/udp/239.77.1.22:5146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/睛彩广场舞.WEBP",睛彩广场舞
 http://192.168.10.1:8888/rtp/239.11.0.184:1025
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",快乐垂钓
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/快乐垂钓.PNG",快乐垂钓
 http://121.10.7.16:4000/udp/239.77.0.145:5146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",天元围棋
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/天元围棋.PNG",天元围棋
 http://121.10.7.16:4000/udp/239.253.43.98:5146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",求索记录
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/求索记录.WEBP",求索记录
 http://121.10.7.16:4000/udp/239.77.0.21:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-五大联赛4K-1
+#EXTINF:-1 tvg-id="咪咕五大联赛4K-1" tvg-name="咪咕五大联赛4K-1" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪咕-五大联赛4K-1
 http://192.168.10.1:8888/rtp/239.10.0.68:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-五大联赛4K-2
+#EXTINF:-1 tvg-id="咪咕五大联赛4K-2" tvg-name="咪咕五大联赛4K-2" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪咕-五大联赛4K-2
 http://192.168.10.1:8888/rtp/239.10.0.69:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事1
+#EXTINF:-1 tvg-id="咪咕-高清赛事1" tvg-name="咪咕-高清赛事1" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事1
 http://192.168.10.1:8888/rtp/239.10.0.87:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事2
 http://192.168.10.1:8888/rtp/239.10.0.88:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事3
 http://192.168.10.1:8888/rtp/239.10.0.89:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事4
 http://192.168.10.1:8888/rtp/239.10.0.247:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事5
 http://192.168.10.1:8888/rtp/239.10.0.248:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事6
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事6
 http://192.168.10.1:8888/rtp/239.10.0.249:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事7
 http://192.168.10.1:8888/rtp/239.10.0.250:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事8
 http://192.168.10.1:8888/rtp/239.10.0.251:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事9
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事9
 http://192.168.10.1:8888/rtp/239.10.0.252:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事10
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事10
 http://192.168.10.1:8888/rtp/239.11.0.1:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事11
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事11
 http://192.168.10.1:8888/rtp/239.11.0.2:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事12
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事12
 http://192.168.10.1:8888/rtp/239.11.0.3:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事13
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事13
 http://192.168.10.1:8888/rtp/239.11.0.4:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事14
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事14
 http://192.168.10.1:8888/rtp/239.11.0.5:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事15
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事15
 http://192.168.10.1:8888/rtp/239.11.0.6:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事16
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事16
 http://192.168.10.1:8888/rtp/239.11.0.7:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事17
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事17
 http://192.168.10.1:8888/rtp/239.11.0.8:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事18
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事18
 http://192.168.10.1:8888/rtp/239.11.0.9:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事19
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事19
 http://192.168.10.1:8888/rtp/239.11.0.10:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事20
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事20
 http://192.168.10.1:8888/rtp/239.11.0.11:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事21
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事21
 http://192.168.10.1:8888/rtp/239.11.0.12:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事22
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事22
 http://192.168.10.1:8888/rtp/239.11.0.13:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事23
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事23
 http://192.168.10.1:8888/rtp/239.11.0.18:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事24
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事24
 http://192.168.10.1:8888/rtp/239.11.0.19:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事25
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事25
 http://192.168.10.1:8888/rtp/239.11.0.20:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事26
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事26
 http://192.168.10.1:8888/rtp/239.11.0.21:1025
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="",咪咕-高清赛事27
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界.WEBP",咪咕-高清赛事27
 http://192.168.10.1:8888/rtp/239.11.0.22:1025
 
 

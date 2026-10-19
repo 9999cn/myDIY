@@ -277,6 +277,17 @@ http://gzgxzm.dpdns.org:10086/udp/239.21.0.150:3944
 #EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/河源综合.png",河源综合高清
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.48:3532
 
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen1.png",深圳都市频道
+http://121.10.7.16:4000/udp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen2.png",深圳电视频道
+http://121.10.7.16:4000/udp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen6.png",深圳少儿频道
+http://121.10.7.16:4000/udp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="深圳龙岗" tvg-name="深圳龙岗" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen10.png",深圳龙岗频道
+http://121.10.7.16:4000/udp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="宜和频道" tvg-name="宜和频道" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen11.png",深圳宜和频道
+http://121.10.7.16:4000/udp/239.77.1.87:5146
+
 
 
 

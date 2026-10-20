@@ -242,11 +242,9 @@ http://121.10.7.16:4000/rtp/239.253.43.105:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.138:3896
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头综合.PNG",汕头综合高清
 http://121.10.7.16:4000/rtp/239.253.43.45:5146
-http://121.10.7.16:4000/rtp/239.77.1.130:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头经济生活.png",汕头经济生活
 http://121.10.7.16:4000/rtp/239.253.43.46:5146
-http://121.10.7.16:4000/rtp/239.77.1.131:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="惠州综合" tvg-name="惠州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/惠州综合.png",惠州综合高清
 http://121.10.7.16:4000/rtp/239.77.1.232:5146
@@ -258,7 +256,7 @@ http://gzgxzm.dpdns.org:10086/udp/239.21.0.28:3452
 http://121.10.7.16:4000/udp/239.77.0.25:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.89:3696
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/揭阳综合.png",揭阳综合高清
-http://121.10.7.16:4000/udp/239.77.0.157:5146
+http://121.10.7.16:4000/udp/239.77.0.229:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.91:3704
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/潮州综合.png",潮州综合高清
 http://121.10.7.16:4000/rtp/239.253.43.70:5146

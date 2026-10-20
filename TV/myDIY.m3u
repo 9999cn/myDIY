@@ -235,32 +235,46 @@ http://192.168.10.1:8888/rtp/239.10.0.253:1025
 http://192.168.10.1:8888/rtp/239.11.0.95:1025
 http://192.168.10.1:8888/rtp/239.10.0.126:1025
 #EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/东莞新闻综合.png",东莞新闻综合
+http://121.10.7.16:4000/rtp/239.253.43.104:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.137:3892
 #EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/东莞生活资讯.png",东莞生活资讯
+http://121.10.7.16:4000/rtp/239.253.43.105:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.138:3896
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头综合.PNG",汕头综合高清
+http://121.10.7.16:4000/rtp/239.253.43.45:5146
+http://121.10.7.16:4000/rtp/239.77.1.130:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕头经济生活.png",汕头经济生活
+http://121.10.7.16:4000/rtp/239.253.43.46:5146
+http://121.10.7.16:4000/rtp/239.77.1.131:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="惠州综合" tvg-name="惠州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/惠州综合.png",惠州综合高清
+http://121.10.7.16:4000/rtp/239.77.1.232:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.27:3448
 #EXTINF:-1 tvg-id="惠州公共" tvg-name="惠州公共" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/惠州综合.png",惠州公共高清
+http://121.10.7.16:4000/rtp/239.77.1.233:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.28:3452
 #EXTINF:-1 tvg-id="汕尾综合" tvg-name="汕尾综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/汕尾综合.png",汕尾综合高清
+http://121.10.7.16:4000/udp/239.77.0.25:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.89:3696
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/揭阳综合.png",揭阳综合高清
+http://121.10.7.16:4000/udp/239.77.0.157:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.91:3704
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/潮州综合.png",潮州综合高清
+http://121.10.7.16:4000/rtp/239.253.43.70:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.145:3924
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/潮州民生.png",潮州民生高清
+http://121.10.7.16:4000/rtp/239.253.43.75:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.146:3928
 #EXTINF:-1 tvg-id="梅州综合" tvg-name="梅州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/梅州综合.png",梅州综合高清
+http://121.10.7.16:4000/rtp/239.253.43.123:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.149:3940
 #EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/梅州客家生活.png",梅州客家生活
+http://121.10.7.16:4000/rtp/239.253.43.124:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.150:3944
 #EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/河源综合.png",河源综合高清
+http://121.10.7.16:4000/rtp/239.253.43.213:5146
 http://gzgxzm.dpdns.org:10086/udp/239.21.0.48:3532
-
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen1.png",深圳都市频道
 http://121.10.7.16:4000/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen2.png",深圳电视频道
@@ -271,6 +285,10 @@ http://121.10.7.16:4000/udp/239.77.1.244:5146
 http://121.10.7.16:4000/udp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="宜和频道" tvg-name="宜和频道" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen11.png",深圳宜和频道
 http://121.10.7.16:4000/udp/239.77.1.87:5146
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="广东频道" tvg-logo="",四屏同播
+http://121.10.7.16:4000/rtp/239.77.1.107:5146
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="广东频道" tvg-logo="",九屏同播
+http://121.10.7.16:4000/rtp/239.77.1.234:5146
 
 
 

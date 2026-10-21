@@ -2,167 +2,6 @@
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台
-https://cdn.qd.je/163189/fct2
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(VTT)
-https://cdn.qd.je/163189/fctvtt
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台4K
-https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(广电)
-https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV.WEBP",ViuTV
-https://cdn.qd.je/163189/viu
-#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTVsix" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV6.WEBP",ViuTV6
-https://cdn.qd.je/163189/viu6
-#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/Now新闻台.WEBP",Now新闻台
-https://cdn.qd.je/163189/now
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVBPlus.WEBP",TVB Plus
-https://cdn.qd.je/163189/tvbp2
-https://cdn.qd.je/163189/tvbp
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVBPlus.WEBP",TVB Plus(VTT)
-https://cdn.qd.je/163189/tvbpvtt
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台
-https://cdn.qd.je/163189/mzt
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台(VTT)
-https://cdn.qd.je/163189/mztvtt
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP",无线新闻台
-https://cdn.qd.je/163189/wxxw
-https://cdn.qd.je/163189/wxxwt
-#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB娱乐新闻台.WEBP",娱乐新闻台
-https://cdn.qd.je/163189/ylxw
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB千禧经典台.WEBP",千禧经典台
-https://cdn.qd.je/163189/tvbc
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB剧集台.WEBP",TVB1(USA)
-https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB剧集台.WEBP",TVBJ1(USA)
-https://cdn.qd.je/163189/j1
-#EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB剧集台.WEBP",TVB Drama
-https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB功夫台.WEBP",TVB 功夫台
-https://cdn.qd.je/163189/yzwx
-#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB星河台.WEBP",TVB 星河台
-https://cdn.qd.je/163189/tvbxh2
-https://cdn.qd.je/163189/tvbxh
-https://cdn.qd.je/163189/xinghe
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(华丽马来)
-https://cdn.qd.je/163189/hlt
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来字幕)
-https://cdn.qd.je/163189/jade
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来西亚)
-https://cdn.qd.je/163189/hlfct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(新加坡)
-https://cdn.qd.je/163189/jade2
-#EXTINF:-1 tvg-id="Hoy76" tvg-name="HOY 國際財經台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76
-https://cdn.qd.je/163189/hoy76
-#EXTINF:-1 tvg-id="Hoy77" tvg-name="HOY 資訊台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY77.WEBP",HOY77
-https://cdn.qd.je/163189/hoy
-https://cdn.qd.je/163189/hoy2
-#EXTINF:-1 tvg-id="Hoy78" tvg-name="HOY TV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY78.WEBP",HOY78
-https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰卫视.WEBP",凤凰中文
-https://cdn.qd.je/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰资讯.WEBP",凤凰资讯
-https://cdn.qd.je/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰香港.WEBP",凤凰香港
-https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK31.WEBP",RTHK31
-https://cdn.qd.je/163189/rthk31
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK32.WEBP",RTHK32
-https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK33.WEBP",RTHK33
-https://cdn.qd.je/163189/rthk33
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳视澳门.WEBP",澳视澳门
-https://cdn.qd.je/163189/asam
-#EXTINF:-1 tvg-id="澳门Macau" tvg-name="澳门Macau" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门Macau.WEBP", 澳门Macau
-https://cdn.qd.je/163189/as
-#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门体育.WEBP",澳门体育
-https://cdn.qd.je/163189/amty
-#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门综艺.WEBP",澳门综艺
-https://cdn.qd.je/163189/amzy
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
-https://cdn.qd.je/163189/amlh
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/重温经典.WEBP",重温经典
-https://cdn.qd.je/163189/cwjd
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东珠江.WEBP",广东珠江
-https://cdn.qd.je/163189/gdzj
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东体育.WEBP",广东体育
-https://cdn.qd.je/163189/gdty
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/八度空间.WEBP",八度空间
-https://cdn.qd.je/163189/8tv
-#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/AstroAOD.WEBP",Astro AOD
-https://cdn.qd.je/163189/aod
-#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/Astro欢喜台.WEBP",Astro 欢喜台
-https://cdn.qd.je/163189/hxt
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/Astro爱奇艺.WEBP",Astro iQIYI
-https://cdn.qd.je/163189/iqiyi
-#EXTINF:-1 tvg-id="Channel5" tvg-name="Channel5" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/CH5.WEBP",CH5
-https://cdn.qd.je/163189/ch5
-#EXTINF:-1 tvg-id="Channel5" tvg-name="Channel8" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/CH8.WEBP",CH8
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="ChannelU" tvg-name="ChannelU" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/CHU.WEBP",CHU
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华电影.WEBP",龙华电影
-https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华经典.WEBP",龙华经典
-https://cdn.qd.je/163189/lhjd
-#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华偶像.WEBP",龙华偶像
-https://cdn.qd.je/163189/lhox
-#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华日韩.WEBP",龙华日韩
-https://cdn.qd.je/163189/lhrh
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华戏剧.WEBP",龙华戏剧
-https://cdn.qd.je/163189/lhxj
-#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华洋片.WEBP",龙华洋片
-https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华卡通.WEBP",龙华卡通
-https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(新加坡)
-https://cdn.qd.je/163189/typd
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(新加坡)
-https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(马来西亚)
-https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(马来西亚)
-https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/采昌影剧.WEBP",采昌影剧
-https://cdn.qd.je/163189/ccyj
-#EXTINF:-1 tvg-id="靖天映画台" tvg-name="靖天映画台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖天映画.WEBP",靖天映画
-https://cdn.qd.je/163189/jtyh
-#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖天戏剧.WEBP",靖天戏剧
-https://cdn.qd.je/163189/jtxj
-#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖天电影.WEBP",靖天电影
-https://cdn.qd.je/163189/jtdy
-#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖洋戏剧.WEBP",靖洋戏剧
-https://cdn.qd.je/163189/jyxj
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/纬来电影.WEBP",纬来电影
-https://cdn.qd.je/163189/wldy
-#EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/纬来戏剧.WEBP",纬来戏剧
-https://cdn.qd.je/163189/wlxj
-#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/纬来体育.WEBP",纬来体育
-https://cdn.qd.je/163189/wlty
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙祥时代.WEBP",龙祥时代
-https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/东森电影.WEBP",东森电影
-https://cdn.qd.je/163189/dsdy
-#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/东森戏剧.WEBP",东森戏剧
-https://cdn.qd.je/163189/dsxj
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/东森洋片.WEBP",东森洋片
-https://cdn.qd.je/163189/dsyp
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广州综合.WEBP",广州综合
-https://cdn.qd.je/163189/gzzh
-#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广州新闻.WEBP",广州新闻
-https://cdn.qd.je/163189/gzxw
-#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/南国都市.WEBP",南国都市
-https://cdn.qd.je/163189/ngds
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/海峡卫视.WEBP",海峡卫视
-https://cdn.qd.je/163189/hxws2
-https://cdn.qd.je/163189/hxws
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/五星体育.WEBP",五星体育
-https://cdn.qd.je/163189/wxty
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东卫视.PNG",广东卫视超清
 http://192.168.10.1:8888/rtp/239.10.0.45:1025
@@ -283,11 +122,6 @@ http://121.10.7.16:4000/udp/239.77.1.244:5146
 http://121.10.7.16:4000/udp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="宜和频道" tvg-name="宜和频道" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVlogo/refs/heads/main/img/Shenzhen11.png",深圳宜和频道
 http://121.10.7.16:4000/udp/239.77.1.87:5146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="广东频道" tvg-logo="",四屏同播
-http://121.10.7.16:4000/rtp/239.77.1.107:5146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="广东频道" tvg-logo="",九屏同播
-http://121.10.7.16:4000/rtp/239.77.1.234:5146
-
 
 
 
@@ -465,7 +299,7 @@ http://192.168.10.1:8888/rtp/239.10.0.81:1025
 http://192.168.10.1:8888/rtp/239.10.0.185:1025
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/黑龙江卫视.WEBP",黑龙江卫视
 http://192.168.10.1:8888/rtp/239.10.0.133:1025
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/内蒙古卫视.PNG",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/TVLogo/main/img/Neimeng.png",内蒙古卫视
 http://192.168.10.1:8888/rtp/239.11.0.207:1025
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/甘肃卫视.WEBP",甘肃卫视高清
 http://192.168.10.1:8888/rtp/239.11.0.175:1025
@@ -487,11 +321,211 @@ http://192.168.10.1:8888/rtp/239.11.0.177:1025
 http://192.168.10.1:8888/rtp/239.10.0.206:1025
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/湖南卫视.WEBP",金鹰卡通高清
 http://192.168.10.1:8888/rtp/239.11.0.125:1025
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/山西卫视.WEBP",山西卫视高清
+http://120.76.248.139/live/bfgd/4200000109.m3u8
+http://198.204.228.26/live/sxwshd.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台
+http://124.244.129.167:7003/0.ts
+http://qingyi.7766.org:7003/0.ts
+
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台
+http://124.244.129.167:7007/0.ts
+http://qingyi.7766.org:7007/0.ts
+
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(852)
+http://good.852851.xyz/l/4oA3waSljUPFFglF2uVbkV7PY7nODGGY61N7YiRD--bz2kM1nlbnKz0LxUQ_UP_k/index.m3u8
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(852)
+http://good.852851.xyz/l/9MXdiRSb3FRtDajuA2mGTXDwLsEWrgx_xtUA-5Dzsjb8ezRBExU-8OGQrReyDogj/index.m3u8
+
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(852)
+http://good.852851.xyz/l/xhyC7QuLdufh56m5KsrI_FKUbwtvGnxmb-VrtLJm90JmXNBlpodkKhmI2zA2i9yx/index.m3u8
+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC家庭影院.png",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+http://69.30.245.50/live/chcjt.m3u8
+
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC动作电影.png",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+http://69.30.245.50/live/chcdz.m3u8
+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC影迷电影.png",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+http://69.30.245.50/live/chchd.m3u8
+
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
+http://192.168.10.11:8080/lotus.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台
+https://cdn.qd.je/163189/fct2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(VTT)
+https://cdn.qd.je/163189/fctvtt
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台4K
+https://cdn.qd.je/163189/fct4k
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(广电)
+https://cdn.qd.je/163189/fct
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV.WEBP",ViuTV
+https://cdn.qd.je/163189/viu
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTVsix" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/ViuTV6.WEBP",ViuTV6
+https://cdn.qd.je/163189/viu6
+#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/Now新闻台.WEBP",Now新闻台
+https://cdn.qd.je/163189/now
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVBPlus.WEBP",TVB Plus
+https://cdn.qd.je/163189/tvbp2
+https://cdn.qd.je/163189/tvbp
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVBPlus.WEBP",TVB Plus(VTT)
+https://cdn.qd.je/163189/tvbpvtt
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台
+https://cdn.qd.je/163189/mzt
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB明珠台.WEBP",明珠台(VTT)
+https://cdn.qd.je/163189/mztvtt
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP",无线新闻台
+https://cdn.qd.je/163189/wxxw
+https://cdn.qd.je/163189/wxxwt
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB娱乐新闻台.WEBP",娱乐新闻台
+https://cdn.qd.je/163189/ylxw
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB千禧经典台.WEBP",千禧经典台
+https://cdn.qd.je/163189/tvbc
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB剧集台.WEBP",TVB1(USA)
+https://cdn.qd.je/163189/tvb1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB剧集台.WEBP",TVBJ1(USA)
+https://cdn.qd.je/163189/j1
+#EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB剧集台.WEBP",TVB Drama
+https://cdn.qd.je/163189/tvbd
+#EXTINF:-1 tvg-id="TVB功夫台" tvg-name="TVB功夫台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB功夫台.WEBP",TVB 功夫台
+https://cdn.qd.je/163189/yzwx
+#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB星河台.WEBP",TVB 星河台
+https://cdn.qd.je/163189/tvbxh2
+https://cdn.qd.je/163189/tvbxh
+https://cdn.qd.je/163189/xinghe
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(华丽马来)
+https://cdn.qd.je/163189/hlt
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来字幕)
+https://cdn.qd.je/163189/jade
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(马来西亚)
+https://cdn.qd.je/163189/hlfct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB翡翠台.WEBP",翡翠台(新加坡)
+https://cdn.qd.je/163189/jade2
+#EXTINF:-1 tvg-id="Hoy76" tvg-name="HOY 國際財經台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY76.WEBP",HOY76
+https://cdn.qd.je/163189/hoy76
+#EXTINF:-1 tvg-id="Hoy77" tvg-name="HOY 資訊台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY77.WEBP",HOY77
+https://cdn.qd.je/163189/hoy
+https://cdn.qd.je/163189/hoy2
+#EXTINF:-1 tvg-id="Hoy78" tvg-name="HOY TV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY78.WEBP",HOY78
+https://cdn.qd.je/163189/hoy78
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰卫视.WEBP",凤凰中文
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰资讯.WEBP",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰香港.WEBP",凤凰香港
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK31.WEBP",RTHK31
+https://cdn.qd.je/163189/rthk31
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK32.WEBP",RTHK32
+https://cdn.qd.je/163189/rthk32
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK33.WEBP",RTHK33
+https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳视澳门.WEBP",澳视澳门
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 tvg-id="澳门Macau" tvg-name="澳门Macau" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门Macau.WEBP", 澳门Macau
+https://cdn.qd.je/163189/as
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门体育.WEBP",澳门体育
+https://cdn.qd.je/163189/amty
+#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门综艺.WEBP",澳门综艺
+https://cdn.qd.je/163189/amzy
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
+https://cdn.qd.je/163189/amlh
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/重温经典.WEBP",重温经典
+https://cdn.qd.je/163189/cwjd
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东珠江.WEBP",广东珠江
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东体育.WEBP",广东体育
+https://cdn.qd.je/163189/gdty
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/八度空间.WEBP",八度空间
+https://cdn.qd.je/163189/8tv
+#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/AstroAOD.WEBP",Astro AOD
+https://cdn.qd.je/163189/aod
+#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/Astro欢喜台.WEBP",Astro 欢喜台
+https://cdn.qd.je/163189/hxt
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/Astro爱奇艺.WEBP",Astro iQIYI
+https://cdn.qd.je/163189/iqiyi
+#EXTINF:-1 tvg-id="Channel5" tvg-name="Channel5" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/CH5.WEBP",CH5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel5" tvg-name="Channel8" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/CH8.WEBP",CH8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="ChannelU" tvg-name="ChannelU" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/CHU.WEBP",CHU
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华电影.WEBP",龙华电影
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华经典.WEBP",龙华经典
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华偶像.WEBP",龙华偶像
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华日韩.WEBP",龙华日韩
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华戏剧.WEBP",龙华戏剧
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华洋片.WEBP",龙华洋片
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华卡通.WEBP",龙华卡通
+https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(新加坡)
+https://cdn.qd.je/163189/typd
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(新加坡)
+https://cdn.qd.je/163189/ccm
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(马来西亚)
+https://cdn.qd.je/163189/typd2
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(马来西亚)
+https://cdn.qd.je/163189/ccm2
+#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/采昌影剧.WEBP",采昌影剧
+https://cdn.qd.je/163189/ccyj
+#EXTINF:-1 tvg-id="靖天映画台" tvg-name="靖天映画台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖天映画.WEBP",靖天映画
+https://cdn.qd.je/163189/jtyh
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖天戏剧.WEBP",靖天戏剧
+https://cdn.qd.je/163189/jtxj
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖天电影.WEBP",靖天电影
+https://cdn.qd.je/163189/jtdy
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/靖洋戏剧.WEBP",靖洋戏剧
+https://cdn.qd.je/163189/jyxj
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/纬来电影.WEBP",纬来电影
+https://cdn.qd.je/163189/wldy
+#EXTINF:-1 tvg-id="纬来戏剧台" tvg-name="纬来戏剧台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/纬来戏剧.WEBP",纬来戏剧
+https://cdn.qd.je/163189/wlxj
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/纬来体育.WEBP",纬来体育
+https://cdn.qd.je/163189/wlty
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙祥时代.WEBP",龙祥时代
+https://cdn.qd.je/163189/lxsd
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/东森电影.WEBP",东森电影
+https://cdn.qd.je/163189/dsdy
+#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/东森戏剧.WEBP",东森戏剧
+https://cdn.qd.je/163189/dsxj
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/东森洋片.WEBP",东森洋片
+https://cdn.qd.je/163189/dsyp
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广州综合.WEBP",广州综合
+https://cdn.qd.je/163189/gzzh
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广州新闻.WEBP",广州新闻
+https://cdn.qd.je/163189/gzxw
+#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/南国都市.WEBP",南国都市
+https://cdn.qd.je/163189/ngds
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/海峡卫视.WEBP",海峡卫视
+https://cdn.qd.je/163189/hxws2
+https://cdn.qd.je/163189/hxws
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/五星体育.WEBP",五星体育
+https://cdn.qd.je/163189/wxty
 
 
 
@@ -921,54 +955,6 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 
 
 
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
-
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台
-http://124.244.129.167:7003/0.ts
-http://qingyi.7766.org:7003/0.ts
-
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台
-http://124.244.129.167:7007/0.ts
-http://qingyi.7766.org:7007/0.ts
-
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/美亚电影台.WEBP" group-title="电影频道",美亚电影台(852)
-http://good.852851.xyz/l/4oA3waSljUPFFglF2uVbkV7PY7nODGGY61N7YiRD--bz2kM1nlbnKz0LxUQ_UP_k/index.m3u8
-
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/星影台.WEBP" group-title="电影频道",Now星影台(852)
-http://good.852851.xyz/l/9MXdiRSb3FRtDajuA2mGTXDwLsEWrgx_xtUA-5Dzsjb8ezRBExU-8OGQrReyDogj/index.m3u8
-
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/爆谷台.WEBP" group-title="电影频道",Now爆谷台(852)
-http://good.852851.xyz/l/xhyC7QuLdufh56m5KsrI_FKUbwtvGnxmb-VrtLJm90JmXNBlpodkKhmI2zA2i9yx/index.m3u8
-
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳门莲花.WEBP",澳门莲花
-http://192.168.10.11:8080/lotus.m3u8
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC家庭影院.png",CHC家庭影院
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-http://69.30.245.50/live/chcjt.m3u8
-http://xz.78057805.xyz:4002/rtp/225.1.4.209:1262
-http://219.155.101.174:4022/rtp/225.1.4.209:1262
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC动作电影.png",CHC动作电影
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-http://69.30.245.50/live/chcdz.m3u8
-http://xz.78057805.xyz:4002/rtp/225.1.4.208:1261
-http://219.155.101.174:4022/rtp/225.1.4.208:1261
-
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC影迷电影.png",CHC影迷电影
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-http://69.30.245.50/live/chchd.m3u8
-http://xz.78057805.xyz:4002/rtp/225.1.4.207:1260
-http://219.155.101.174:4022/rtp/225.1.4.207:1260
-
-
-
-
-
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台
 https://php.946985.filegear-sg.me/tvbnews.php?id=c
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/TVB无线新闻台.WEBP" group-title="HK",无线新闻台IN
@@ -1006,12 +992,6 @@ https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",至臻视界
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪视界4K
-http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/睛彩竞技.WEBP",睛彩竞技
 http://192.168.10.1:8888/rtp/239.11.0.183:1025
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/睛彩篮球.WEBP",睛彩篮球
@@ -1028,6 +1008,10 @@ http://121.10.7.16:4000/udp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/求索记录.WEBP",求索记录
 http://121.10.7.16:4000/udp/239.77.0.21:5146
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪咕-至臻视界
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪咕-咪视界4K
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
 #EXTINF:-1 tvg-id="咪咕五大联赛4K-1" tvg-name="咪咕五大联赛4K-1" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪咕-五大联赛4K-1
 http://192.168.10.1:8888/rtp/239.10.0.68:1025
 #EXTINF:-1 tvg-id="咪咕五大联赛4K-2" tvg-name="咪咕五大联赛4K-2" group-title="咪咕" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/咪视界4K.WEBP",咪咕-五大联赛4K-2

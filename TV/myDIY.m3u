@@ -62,7 +62,7 @@ http://192.168.10.1:8888/rtp/239.10.0.219:1025
 http://192.168.10.1:8888/rtp/239.11.0.84:1025
 #EXTINF:-1 tvg-id="清远新闻综合" tvg-name="清远新闻综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/清远新闻综合.png",清远新闻综合
 http://192.168.10.1:8888/rtp/239.11.0.74:1025
-#EXTINF:-1 tvg-id="阳江综合" tvg-name="阳江综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/阳江综合.png",阳江综合高清
+#EXTINF:-1 tvg-id="阳江综合" tvg-name="阳江综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/阳江综合.PNG",阳江综合高清
 http://192.168.10.1:8888/rtp/239.11.0.189:1025
 #EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/茂名综合.png",茂名综合高清
 http://192.168.10.1:8888/rtp/239.10.0.238:1025

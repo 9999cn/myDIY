@@ -296,15 +296,20 @@ http://caonima.898757.xyz/l/B-h6_mmBXOqqw3P61hWF1gmR0FL4UMTY2GgzeWc7wE5xwGHhJReS
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC家庭影院.png",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 http://69.30.245.50/live/chcjt.m3u8
-
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC动作电影.png",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 http://69.30.245.50/live/chcdz.m3u8
-
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="电影频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/IPTV/CHC影迷电影.png",CHC影迷电影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 http://69.30.245.50/live/chchd.m3u8
-
+#EXTINF:-1,tvg-id="邵氏动作" tvg-name="邵氏动作" group-title="电影频道" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1,tvg-id="邵氏喜剧" tvg-name="邵氏喜剧" group-title="电影频道" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1,tvg-id="邵氏电影" tvg-name="邵氏电影" group-title="电影频道" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1,tvg-id="邵氏武侠" tvg-name="邵氏武侠" group-title="电影频道" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 
 
 
@@ -907,6 +912,8 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK33.WEBP",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳视澳门.WEBP",澳视澳门
 https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" group-title="HK" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/澳视葡文.WEBP",澳视葡文

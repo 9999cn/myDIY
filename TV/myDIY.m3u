@@ -33,7 +33,7 @@ http://192.168.10.1:8888/rtp/239.10.0.200:1025
 http://192.168.10.1:8888/rtp/239.11.0.180:1025
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东4K超高清.WEBP",广东4K超高清
 http://192.168.10.1:8888/rtp/239.10.0.75:1025
-#EXTINF:-1 tvg-id=""南国都市" tvg-name=""南国都市" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/南国都市.WEBP",南国都市4K
+#EXTINF:-1 tvg-id=""南国都市" tvg-name=""南国都市4K" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/南国都市.WEBP",南国都市4K
 http://192.168.10.1:8888/rtp/239.11.0.170:1025
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广州综合.PNG",广州综合高清
 http://192.168.10.1:8888/rtp/239.11.0.138:1025
@@ -396,11 +396,11 @@ https://cdn.qd.je/163189/hoy
 https://cdn.qd.je/163189/hoy2
 #EXTINF:-1 tvg-id="Hoy78" tvg-name="HOY TV" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/HOY78.WEBP",HOY78
 https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰卫视.WEBP",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰卫视.WEBP",凤凰中文
 https://cdn.qd.je/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰资讯.WEBP",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰资讯.WEBP",凤凰资讯
 https://cdn.qd.je/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰香港.WEBP",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港台" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/卫视/凤凰香港.WEBP",凤凰香港
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/香港/RTHK31.WEBP",RTHK31
 https://cdn.qd.je/163189/rthk31
@@ -452,13 +452,13 @@ https://cdn.qd.je/163189/lhxj
 https://cdn.qd.je/163189/lhyp
 #EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/龙华卡通.WEBP",龙华卡通
 https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(新加坡)
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道新加坡" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(新加坡)
 https://cdn.qd.je/163189/typd
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(新加坡)
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典新加坡" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(新加坡)
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(马来西亚)
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道马来西亚" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映频道.WEBP",天映频道(马来西亚)
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(马来西亚)
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典马来西亚" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/东南亚/天映经典.WEBP",天映经典(马来西亚)
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" group-title="Juli" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/台湾/采昌影剧.WEBP",采昌影剧
 https://cdn.qd.je/163189/ccyj
@@ -907,13 +907,13 @@ https://php.946985.filegear-sg.me/mytv265.php?id=GLBT
 https://php.946985.filegear-sg.me/mytv265.php?id=DOCV
 #EXTINF:-1 tvg-id="WILDSTUFF" tvg-name="Wild Stuff" tvg-logo="https://smart.946985.filegear-sg.me/logo/PulseDocumentaries.png" group-title="myTVSuper",Pulse Documentaries
 https://php.946985.filegear-sg.me/mytv265.php?id=PULS
-#EXTINF:-1 tvg-id="THAT'S70S" tvg-name="that's 70s" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOW70s.png" group-title="myTVSuper",NOW 70s
+#EXTINF:-1 tvg-id="THAT'S70S" tvg-name="that's 70s" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOW70s.png" group-title="myTVSuper",that's 70s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
-#EXTINF:-1 tvg-id="THAT'S80S" tvg-name="that's 80s" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOW80s.png" group-title="myTVSuper",NOW 80s
+#EXTINF:-1 tvg-id="THAT'S80S" tvg-name="that's 80s" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOW80s.png" group-title="myTVSuper",that's 80s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
-#EXTINF:-1 tvg-id="THAT'S90S00S" tvg-name="that's 90s00s" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOW90s00s.png" group-title="myTVSuper",NOW 90s00s
+#EXTINF:-1 tvg-id="THAT'S90S00S" tvg-name="that's 90s00s" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOW90s00s.png" group-title="myTVSuper",that's 90s00s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
-#EXTINF:-1 tvg-id="THAT'SROCK" tvg-name="that's Rock" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOWROCK.png" group-title="myTVSuper",NOW ROCK
+#EXTINF:-1 tvg-id="THAT'SROCK" tvg-name="that's Rock" tvg-logo="https://smart.946985.filegear-sg.me/logo/NOWROCK.png" group-title="myTVSuper",that's Rock
 https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 #EXTINF:-1 tvg-id="CONCERTO" tvg-name="Concerto" tvg-logo="https://smart.946985.filegear-sg.me/logo/Concerto.png" group-title="myTVSuper",Concerto
 https://php.946985.filegear-sg.me/mytv265.php?id=CONC

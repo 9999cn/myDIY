@@ -557,7 +557,7 @@ https://php.946985.filegear-sg.me/mytv265.php?id=SFOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
 https://php.946985.filegear-sg.me/mytv265.php?id=STRA
-#EXTINF:-1 tvg-id="SUPERMUSIC" tvg-name="SUPER Music" tvg-logo="https://smart.946985.filegear-sg.me/logo/MytvSuper.png" group-title="myTVSuper",SUPER 音乐
+#EXTINF:-1 tvg-id="SUPERMUSIC" tvg-name="SUPER Music" tvg-logo="https://smart.946985.filegear-sg.me/logo/MytvSuper.png" group-title="myTVSuper",SUPER 音樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4

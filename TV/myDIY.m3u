@@ -16,7 +16,7 @@ http://192.168.10.1:8888/rtp/239.11.0.80:1025
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东体育.WEBP",广东体育超清
 http://192.168.10.1:8888/rtp/239.10.0.47:1025
 http://192.168.10.1:8888/rtp/239.10.0.113:1025
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东经济.WEBP",广东经济科教
+#EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东经济.WEBP",广东经济科教
 http://192.168.10.1:8888/rtp/239.10.0.46:1025
 http://192.168.10.1:8888/rtp/239.10.0.112:1025
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/广东/广东新闻.WEBP",广东新闻高清
@@ -143,7 +143,7 @@ http://192.168.10.1:8888/rtp/239.11.0.100:1025
 http://192.168.10.1:8888/rtp/239.11.0.57:1025
 #EXTINF:-1 tvg-id="电视指南" tvg-name="CCTV-电视指南" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/央视/CCTV电视指南.WEBP",CCTV电视指南
 http://192.168.10.1:8888/rtp/239.11.0.58:1025
-#EXTINF:-1 tvg-id="风云足球" tvg-name="CCTV-风云足球" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/央视/CCTV风云足球.WEBP",CCTV风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-name="CCTV-央视足球" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/央视/CCTV风云足球.WEBP",CCTV风云足球
 http://192.168.10.1:8888/rtp/239.11.0.59:1025
 #EXTINF:-1 tvg-id="央视台球" tvg-name="CCTV-央视台球" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/9999cn/myDIY/refs/heads/main/TV/logo/央视/CCTV央视台球.WEBP",CCTV央视台球
 http://192.168.10.1:8888/rtp/239.11.0.60:1025
@@ -285,7 +285,7 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
-#EXTINF:-1 tvg-id="ACTIONHOLLYWOODMOVIES" tvg-name="Action Hollywood Movies" tvg-logo="https://smart.946985.filegear-sg.me/logo/ActionHollywoodMovies.png" group-title="电影频道",Action 好莱坞电影
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://smart.946985.filegear-sg.me/logo/ActionHollywoodMovies.png" group-title="电影频道",Action 好莱坞电影
 https://php.946985.filegear-sg.me/mytv265.php?id=ACTM
 #EXTINF:-1 tvg-id="Rialto Classic Movies" tvg-name="RCM" tvg-logo="https://smart.946985.filegear-sg.me/logo/RCM.png" group-title="电影频道",Rialto 经典影剧
 https://php.946985.filegear-sg.me/mytv265.php?id=RCM
@@ -637,7 +637,7 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
-#EXTINF:-1 tvg-id="ACTIONHOLLYWOODMOVIES" tvg-name="Action Hollywood Movies" tvg-logo="https://smart.946985.filegear-sg.me/logo/ActionHollywoodMovies.png" group-title="myTVSuper",Action 好萊塢電影
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://smart.946985.filegear-sg.me/logo/ActionHollywoodMovies.png" group-title="myTVSuper",Action 好萊塢電影
 https://php.946985.filegear-sg.me/mytv265.php?id=ACTM
 #EXTINF:-1 tvg-id="RIALTOCLASSICMOVIES(RCM)" tvg-name="Rialto Classic Movies (RCM)" tvg-logo="https://smart.946985.filegear-sg.me/logo/RCM.png" group-title="myTVSuper",Rialto 經典影劇
 https://php.946985.filegear-sg.me/mytv265.php?id=RCM

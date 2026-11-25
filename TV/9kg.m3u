@@ -62,23 +62,23 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="19",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-name=“Animal Planet” group-title=“19”,Animal Planet 
-http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“Cinemax” group-title=“19”,Cinemax
-http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“Cinemax 2” group-title=“19”,Cinemax 2
-http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“Discovery Channel” group-title=“19”,Discovery Channel
-http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“Doma TV” group-title=“19”,Doma TV
-http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“HBO” group-title=“19”,HBO
+#EXTINF:-1 tvg-name=“HBO" group-title="19",HBO
 http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“HBO2” group-title=“19”,HBO2
+#EXTINF:-1 tvg-name="HBO2" group-title="19",HBO2
 http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“HBO3” group-title=“19”,HBO3
+#EXTINF:-1 tvg-name="HBO3" group-title="19",HBO3
 http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name=“Travel Channel” group-title=“19”,Travel Channel
+#EXTINF:-1 tvg-name="Animal Planet" group-title="19",Animal Planet 
+http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax" group-title="19",Cinemax
+http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax 2" group-title="19",Cinemax 2
+http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="19",Discovery
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Doma TV" group-title="19",Doma
+http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" group-title="19",Travel Channel
 http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
 
 #EXTINF:0 group-title="MyCamTV",MyCamTV MILF

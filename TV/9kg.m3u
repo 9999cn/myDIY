@@ -12,13 +12,13 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eroxxxhd" group-title="18",Eroxxx
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="erox" group-title="18",Erox
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eroxxxhd" group-title="18",Eroxxx
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extasy TV" group-title="18", Extasy
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -32,14 +32,13 @@ http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Reality Kings TV" tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" group-title="18", Reality Kings
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dusk" group-title="18",Dusk 
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Reality Kings TV" tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" group-title="18", Reality Kings
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="19",Duck
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
@@ -49,10 +48,10 @@ http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="19",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="19",Eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="19",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="19",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="19",Dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="19",Desire
@@ -159,8 +158,6 @@ http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Brunette
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Gay
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
 http://cdn.adultiptv.net/asian.m3u8
